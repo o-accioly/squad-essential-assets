@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "language": "en",
+  "strings": {
+    "nav.home": "Home",
+    "nav.servers": "Servers",
+    "nav.players": "Players"
+  }
+}

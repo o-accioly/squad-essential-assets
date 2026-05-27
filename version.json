@@ -1,0 +1,27 @@
+{
+  "game_version": "Fandom-2026-05",
+  "generated_at": "2026-05-27T05:18:30.433966+00:00",
+  "schema": 1,
+  "sources": {
+    "images": {
+      "counts": {
+        "flags": 13,
+        "mapicons": 29,
+        "maps": 26,
+        "roles": 23,
+        "vehicles": 24,
+        "vehicles_wired": 316,
+        "weapons": 355
+      },
+      "credit": "Squad Fandom Wiki contributors",
+      "license": "CC-BY-SA 3.0",
+      "url": "https://squad.fandom.com"
+    },
+    "map_data": {
+      "credit": "Squad-Wiki/squad-wiki-pipeline-map-data",
+      "license": "CC-BY-SA 4.0",
+      "sha256": "9facb484e775603842ae8dc419e491b27cf082fda154bb41f00139ab8467cc7b",
+      "url": "https://raw.githubusercontent.com/Squad-Wiki/squad-wiki-pipeline-map-data/master/completed_output/_Current%20Version/finished.json"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "aliases": {
+    "Australian Defence Force": "ADF",
+    "British Armed Forces": "BAF",
+    "Canadian Armed Forces": "CAF",
+    "Insurgent Forces": "INS",
+    "Irregular Militia Forces": "IMF",
+    "Middle Eastern Alliance": "MEA",
+    "PLA Navy Marine Corps": "PLANMC",
+    "People's Liberation Army": "PLA",
+    "Russian Airborne Forces": "VDV",
+    "Russian Ground Forces": "RGF",
+    "Turkish Land Forces": "TLF",
+    "United States Army": "USA",
+    "United States Marine Corps": "USMC"
+  },
+  "entries": {
+    "ADF": {
+      "image": "flags/adf.png",
+      "label": "Australian Defence Force"
+    },
+    "BAF": {
+      "image": "flags/baf.jpg",
+      "label": "British Armed Forces"
+    },
+    "CAF": {
+      "image": "flags/caf.png",
+      "label": "Canadian Armed Forces"
+    },
+    "IMF": {
+      "image": "flags/imf.png",
+      "label": "Irregular Militia Forces"
+    },
+    "INS": {
+      "image": "flags/ins.png",
+      "label": "Insurgent Forces"
+    },
+    "MEA": {
+      "image": "flags/mea.png",
+      "label": "Middle Eastern Alliance"
+    },
+    "PLA": {
+      "image": "flags/pla.png",
+      "label": "People's Liberation Army"
+    },
+    "PLANMC": {
+      "image": "flags/planmc.jpg",
+      "label": "PLA Navy Marine Corps"
+    },
+    "RGF": {
+      "image": "flags/rgf.png",
+      "label": "Russian Ground Forces"
+    },
+    "TLF": {
+      "image": "flags/tlf.png",
+      "label": "Turkish Land Forces"
+    },
+    "USA": {
+      "image": "flags/usa.png",
+      "label": "United States Army"
+    },
+    "USMC": {
+      "image": "flags/usmc.png",
+      "label": "United States Marine Corps"
+    },
+    "VDV": {
+      "image": "flags/vdv.jpg",
+      "label": "Russian Airborne Forces"
+    }
+  },
+  "schema": 1,
+  "source": "squad-wiki-pipeline-map-data",
+  "suffix_strip": []
+}

@@ -1,0 +1,1953 @@
+{
+  "aliases": {},
+  "entries": {
+    "BP_2A6_Desert": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "Leopard 2A6M CAN"
+    },
+    "BP_2A6_Desert_Cage": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "Leopard 2A6M CAN"
+    },
+    "BP_2A6_Woodland": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "Leopard 2A6M CAN"
+    },
+    "BP_2A6_Woodland_Cage": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "Leopard 2A6M CAN"
+    },
+    "BP_AAVP7A1": {
+      "category": "APC",
+      "icon": "map_trackedapc",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "AAVP-7A1"
+    },
+    "BP_AAVP7A1_Logi": {
+      "category": "LOGI",
+      "icon": "T_map_trackedapc_logistics",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "AAVC-7A1 Logistics"
+    },
+    "BP_AAVP7A1_Woodland": {
+      "category": "APC",
+      "icon": "map_trackedapc",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "AAVP-7A1"
+    },
+    "BP_AAVP7A1_Woodland_Logi": {
+      "category": "LOGI",
+      "icon": "T_map_trackedapc_logistics",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "AAVC-7A1 Logistics"
+    },
+    "BP_ACV-15": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "ACV-15 25mm"
+    },
+    "BP_ACV-15_Desert": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "ACV-15 25mm"
+    },
+    "BP_ACV-15_M2": {
+      "category": "APC",
+      "icon": "map_trackedjeep",
+      "image": "vehicles/trackedjeep_vehicle_icon.png",
+      "label": "ACV-15 M2"
+    },
+    "BP_ACV-15_M2_Desert": {
+      "category": "APC",
+      "icon": "map_trackedjeep",
+      "image": "vehicles/trackedjeep_vehicle_icon.png",
+      "label": "ACV-15 M2"
+    },
+    "BP_ACV-15_MG3": {
+      "category": "APC",
+      "icon": "map_trackedjeep",
+      "image": "vehicles/trackedjeep_vehicle_icon.png",
+      "label": "ACV-15 MG3"
+    },
+    "BP_ACV-15_MG3_Desert": {
+      "category": "APC",
+      "icon": "map_trackedjeep",
+      "image": "vehicles/trackedjeep_vehicle_icon.png",
+      "label": "ACV-15 MG3"
+    },
+    "BP_ASLAV": {
+      "category": "IFV",
+      "icon": "map_ifv",
+      "image": "vehicles/ifv_vehicle_icon.png",
+      "label": "ASLAV"
+    },
+    "BP_AUS_M1A1": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "M1A1"
+    },
+    "BP_Armored_Technical2Seater_Camo_DSHK": {
+      "category": "LTV",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Armored Modern Technical DShK"
+    },
+    "BP_Armored_Technical2Seater_Camo_M2": {
+      "category": "LTV",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Armored Modern Technical M2 HB"
+    },
+    "BP_Armored_Technical2Seater_Camo_SPG9": {
+      "category": "TD",
+      "icon": "map_jeep_antitank",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Armored Modern Technical SPG-9"
+    },
+    "BP_Armored_Technical4Seater_Logi_Camo": {
+      "category": "LOGI",
+      "icon": "map_jeep_logistics",
+      "image": "vehicles/jeep_logistics_vehicle_icon.png",
+      "label": "Armored Logistics Modern Pickup"
+    },
+    "BP_Armored_Technical4Seater_Transport_Camo": {
+      "category": "TRAN",
+      "icon": "map_jeep_transport",
+      "image": "vehicles/jeep_transport_vehicle_icon.png",
+      "label": "Armored Transport Modern Pickup"
+    },
+    "BP_Armored_Ural_375_Logi_MIL": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "Armored Ural-375D Logistics"
+    },
+    "BP_Armored_Ural_375_MIL": {
+      "category": "TRAN",
+      "icon": "map_truck_transport",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "Armored Ural-375D Transport"
+    },
+    "BP_Aussie_Util_Truck": {
+      "category": "TRAN",
+      "icon": "map_truck_transport",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "HX60 Transport"
+    },
+    "BP_Aussie_Util_Truck_Logi": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "HX60 Logistics"
+    },
+    "BP_BFV": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "M2A3"
+    },
+    "BP_BFV_Woodland": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "M2A3"
+    },
+    "BP_BM21Grad_MIL": {
+      "category": "SPA",
+      "icon": "T_map_truck_artillery",
+      "label": "BM-21 Grad"
+    },
+    "BP_BMD1M": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "BMD-1M"
+    },
+    "BP_BMD1M_Desert": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "BMD-1M"
+    },
+    "BP_BMD4M": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "BMD-4M"
+    },
+    "BP_BMD4M_Desert": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "BMD-4M"
+    },
+    "BP_BMP1_INS": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "BMP-1"
+    },
+    "BP_BMP1_INS_ZU23": {
+      "category": "SPAA",
+      "icon": "map_antiair",
+      "image": "vehicles/antiair_vehicle_icon.png",
+      "label": "BMP-1 ZU-23-2"
+    },
+    "BP_BMP1_MEA": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "BMP-1"
+    },
+    "BP_BMP1_MIL": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "BMP-1"
+    },
+    "BP_BMP1_MIL_ZU23": {
+      "category": "SPAA",
+      "icon": "map_antiair",
+      "image": "vehicles/antiair_vehicle_icon.png",
+      "label": "BMP-1 ZU-23-2"
+    },
+    "BP_BMP2": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "BMP-2"
+    },
+    "BP_BMP2_Desert": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "BMP-2"
+    },
+    "BP_BMP2_IMF": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "BMP-2"
+    },
+    "BP_BMP2_MEA": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "BMP-2"
+    },
+    "BP_BRDM-2_Insurgents": {
+      "category": "LTV",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "BRDM-2"
+    },
+    "BP_BRDM-2_MEA": {
+      "category": "RSV",
+      "icon": "map_jeep_artillery",
+      "image": "vehicles/jeep_artillery_vehicle_icon.png",
+      "label": "BRDM-2 S8"
+    },
+    "BP_BRDM-2_MEA_Spandrel": {
+      "category": "TD",
+      "icon": "map_jeep_antitank",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "BRDM-2 Spandrel"
+    },
+    "BP_BRDM-2_MIL": {
+      "category": "LTV",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "BRDM-2"
+    },
+    "BP_BRDM-2_RUS": {
+      "category": "LTV",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "BRDM-2"
+    },
+    "BP_BRDM-2_RUS_Desert": {
+      "category": "LTV",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "BRDM-2"
+    },
+    "BP_BRDM-2_Spandrel_RUS": {
+      "category": "TD",
+      "icon": "map_jeep_antitank",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "BRDM-2 Spandrel"
+    },
+    "BP_BRDM-2_Spandrel_RUS_Desert": {
+      "category": "TD",
+      "icon": "map_jeep_antitank",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "BRDM-2 Spandrel"
+    },
+    "BP_BTR-DG_Logistics": {
+      "category": "LOGI",
+      "icon": "T_map_trackedapc_logistics",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "BTR-DG Logistics"
+    },
+    "BP_BTR-DG_Logistics_Desert": {
+      "category": "LOGI",
+      "icon": "T_map_trackedapc_logistics",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "BTR-DG Logistics"
+    },
+    "BP_BTR-D_Kord": {
+      "category": "APC",
+      "icon": "map_trackedjeep",
+      "image": "vehicles/trackedjeep_vehicle_icon.png",
+      "label": "BTR-D Kord"
+    },
+    "BP_BTR-D_Kord_Desert": {
+      "category": "APC",
+      "icon": "map_trackedjeep",
+      "image": "vehicles/trackedjeep_vehicle_icon.png",
+      "label": "BTR-D Kord"
+    },
+    "BP_BTR-D_PKM": {
+      "category": "APC",
+      "icon": "map_trackedjeep",
+      "image": "vehicles/trackedjeep_vehicle_icon.png",
+      "label": "BTR-D PKM"
+    },
+    "BP_BTR-D_Transport": {
+      "category": "APC",
+      "icon": "T_map_trackedapc_noturret",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "BTR-D"
+    },
+    "BP_BTR-D_Transport_Desert": {
+      "category": "APC",
+      "icon": "T_map_trackedapc_noturret",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "BTR-D"
+    },
+    "BP_BTR-ZD": {
+      "category": "SPAA",
+      "icon": "map_antiair",
+      "image": "vehicles/antiair_vehicle_icon.png",
+      "label": "BTR-ZD"
+    },
+    "BP_BTR-ZD_Desert": {
+      "category": "SPAA",
+      "icon": "map_antiair",
+      "image": "vehicles/antiair_vehicle_icon.png",
+      "label": "BTR-ZD"
+    },
+    "BP_BTR80_INS": {
+      "category": "APC",
+      "icon": "map_apc",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "BTR-80"
+    },
+    "BP_BTR80_Militia": {
+      "category": "APC",
+      "icon": "map_apc",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "BTR-80"
+    },
+    "BP_BTR80_RUS": {
+      "category": "APC",
+      "icon": "map_apc",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "BTR-80"
+    },
+    "BP_BTR80_RUS_Desert": {
+      "category": "APC",
+      "icon": "map_apc",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "BTR-80"
+    },
+    "BP_BTR82A_RUS": {
+      "category": "APC",
+      "icon": "map_ifv",
+      "image": "vehicles/ifv_vehicle_icon.png",
+      "label": "BTR-82A"
+    },
+    "BP_BTR82A_RUS_Desert": {
+      "category": "APC",
+      "icon": "map_ifv",
+      "image": "vehicles/ifv_vehicle_icon.png",
+      "label": "BTR-82A"
+    },
+    "BP_BTRMDM_PKT_RWS": {
+      "category": "APC",
+      "icon": "map_trackedapc",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "BTR-MDM"
+    },
+    "BP_BTRMDM_PKT_RWS_Desert": {
+      "category": "APC",
+      "icon": "map_trackedapc",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "BTR-MDM"
+    },
+    "BP_Brit_Util_Truck": {
+      "category": "TRAN",
+      "icon": "map_truck_transport",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "HX60 Transport"
+    },
+    "BP_Brit_Util_Truck_Logi": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "HX60 Logistics"
+    },
+    "BP_Brit_Util_Truck_Logi_Woodland": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "HX60 Logistics"
+    },
+    "BP_Brit_Util_Truck_Woodland": {
+      "category": "TRAN",
+      "icon": "map_truck_transport",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "HX60 Transport"
+    },
+    "BP_CAF_Util_Desert": {
+      "category": "TRAN",
+      "icon": "map_truck_transport",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "MSVS Transport"
+    },
+    "BP_CAF_Util_Desert_Logi": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "MSVS Logistics"
+    },
+    "BP_CAF_Util_Woodland": {
+      "category": "TRAN",
+      "icon": "map_truck_transport",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "MSVS Transport"
+    },
+    "BP_CAF_Util_Woodland_Logi": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "MSVS Logistics"
+    },
+    "BP_CH146": {
+      "category": "UH",
+      "icon": "map_transporthelo",
+      "image": "vehicles/transporthelo_vehicle_icon.png",
+      "label": "CH-146"
+    },
+    "BP_CH146_Desert": {
+      "category": "UH",
+      "icon": "map_transporthelo",
+      "image": "vehicles/transporthelo_vehicle_icon.png",
+      "label": "CH-146"
+    },
+    "BP_CH178": {
+      "category": "UH",
+      "icon": "map_transporthelo",
+      "image": "vehicles/transporthelo_vehicle_icon.png",
+      "label": "CH-178"
+    },
+    "BP_CSK131_HJ-8ATGM": {
+      "category": "TD",
+      "icon": "map_jeep_antitank",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "CSK131 HJ8"
+    },
+    "BP_CSK131_HJ8ATGM_Desert": {
+      "category": "TD",
+      "icon": "map_jeep_antitank",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "CSK131 HJ8"
+    },
+    "BP_CSK131_QJY88": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "CSK131 QJY88"
+    },
+    "BP_CSK131_QJY88_Desert": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "CSK131 QJY88"
+    },
+    "BP_CSK131_QJY88_Naval": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "CSK131 QJY88"
+    },
+    "BP_CSK131_QJZ89": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "CSK131 QJZ89"
+    },
+    "BP_CSK131_QJZ89_Desert": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "CSK131 QJZ89"
+    },
+    "BP_CSK131_QJZ89_Naval": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "CSK131 QJZ89"
+    },
+    "BP_CSK131_RWS": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "CSK131 QJC88 RWS"
+    },
+    "BP_CSK131_RWS_Desert": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "CSK131 QJC88 RWS"
+    },
+    "BP_CSK131_RWS_Naval": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "CSK131 QJC88 RWS"
+    },
+    "BP_CTM131": {
+      "category": "TRAN",
+      "icon": "map_truck_transport_armed",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "CTM131 Transport QJY88"
+    },
+    "BP_CTM131_Desert": {
+      "category": "TRAN",
+      "icon": "map_truck_transport_armed",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "CTM131 Transport QJY88"
+    },
+    "BP_CTM131_Logistic": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "CTM131 Logistics"
+    },
+    "BP_CTM131_Logistic_Desert": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "CTM131 Logistics"
+    },
+    "BP_CTM131_Logistic_Naval": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "CTM131 Logistics"
+    },
+    "BP_CTM131_Naval": {
+      "category": "TRAN",
+      "icon": "map_truck_transport_armed",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "CTM131 QJY88"
+    },
+    "BP_CTM131_QJZ89": {
+      "category": "TRAN",
+      "icon": "map_truck_transport_armed",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "CTM131 Transport QJZ89"
+    },
+    "BP_CTM131_QJZ89_Desert": {
+      "category": "TRAN",
+      "icon": "map_truck_transport_armed",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "CTM131 Transport QJZ89"
+    },
+    "BP_CTM131_QJZ89_Naval": {
+      "category": "TRAN",
+      "icon": "map_truck_transport_armed",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "CTM131 QJZ89"
+    },
+    "BP_Cobra2_M2": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Cobra II M2"
+    },
+    "BP_Cobra2_M2_Desert": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Cobra II M2"
+    },
+    "BP_Cobra2_MG3": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Cobra II MG3"
+    },
+    "BP_Cobra2_MG3_Desert": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Cobra II MG3"
+    },
+    "BP_Cobra2_RWS_M2": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Cobra II M2 RWS"
+    },
+    "BP_Cobra2_RWS_M2_Desert": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Cobra II M2 RWS"
+    },
+    "BP_Cobra2_RWS_MG3": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Cobra II MG3 RWS"
+    },
+    "BP_Cobra2_RWS_MG3_Desert": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Cobra II MG3 RWS"
+    },
+    "BP_FV107": {
+      "category": "RSV",
+      "icon": "T_map_trackedrecon",
+      "label": "FV107"
+    },
+    "BP_FV107_Woodland": {
+      "category": "RSV",
+      "icon": "T_map_trackedrecon",
+      "label": "FV107"
+    },
+    "BP_FV4034": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "FV4034"
+    },
+    "BP_FV4034_Woodland": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "FV4034"
+    },
+    "BP_FV432": {
+      "category": "APC",
+      "icon": "map_trackedjeep",
+      "image": "vehicles/trackedjeep_vehicle_icon.png",
+      "label": "FV432"
+    },
+    "BP_FV432_RWS": {
+      "category": "APC",
+      "icon": "map_trackedapc",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "FV432 RWS"
+    },
+    "BP_FV432_RWS_Woodland": {
+      "category": "APC",
+      "icon": "map_trackedapc",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "FV432 RWS"
+    },
+    "BP_FV432_woodland": {
+      "category": "APC",
+      "icon": "map_trackedjeep",
+      "image": "vehicles/trackedjeep_vehicle_icon.png",
+      "label": "FV432"
+    },
+    "BP_FV510": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "FV510"
+    },
+    "BP_FV510UA": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "FV510 UA"
+    },
+    "BP_FV510UA_CTAS40": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "FV520 CTAS40"
+    },
+    "BP_FV510UA_CTAS40_Woodland": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "FV520 CTAS40"
+    },
+    "BP_FV510UA_Woodland": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "FV510 UA"
+    },
+    "BP_FV510_Woodland": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "FV510"
+    },
+    "BP_Kamaz_5350": {
+      "category": "TRAN",
+      "icon": "map_truck_transport",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "KamAZ 5350 Transport"
+    },
+    "BP_Kamaz_5350_Desert": {
+      "category": "TRAN",
+      "icon": "map_truck_transport",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "KamAZ 5350 Transport"
+    },
+    "BP_Kamaz_5350_Logi": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "KamAZ 5350 Logistics"
+    },
+    "BP_Kamaz_5350_Logi_Desert": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "KamAZ 5350 Logistics"
+    },
+    "BP_LAV25": {
+      "category": "APC",
+      "icon": "map_ifv",
+      "image": "vehicles/ifv_vehicle_icon.png",
+      "label": "LAV-25"
+    },
+    "BP_LAV25_Woodland": {
+      "category": "APC",
+      "icon": "map_ifv",
+      "image": "vehicles/ifv_vehicle_icon.png",
+      "label": "LAV-25"
+    },
+    "BP_LAV2_Coyote": {
+      "category": "IFV",
+      "icon": "T_map_wheeledrecon",
+      "label": "Coyote"
+    },
+    "BP_LAV2_Coyote_Woodland": {
+      "category": "IFV",
+      "icon": "T_map_wheeledrecon",
+      "label": "Coyote"
+    },
+    "BP_LAV6_Desert": {
+      "category": "IFV",
+      "icon": "map_ifv",
+      "image": "vehicles/ifv_vehicle_icon.png",
+      "label": "LAV 6"
+    },
+    "BP_LAV6_Woodland": {
+      "category": "IFV",
+      "icon": "map_ifv",
+      "image": "vehicles/ifv_vehicle_icon.png",
+      "label": "LAV 6"
+    },
+    "BP_LAV_RWS_C6": {
+      "category": "APC",
+      "icon": "map_apc",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "LAV III C6 RWS"
+    },
+    "BP_LAV_RWS_C6_Desert": {
+      "category": "APC",
+      "icon": "map_apc",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "LAV III C6 RWS"
+    },
+    "BP_LAV_RWS_M2": {
+      "category": "APC",
+      "icon": "map_apc",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "LAV III M2 RWS"
+    },
+    "BP_LAV_RWS_M2_Desert": {
+      "category": "APC",
+      "icon": "map_apc",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "LAV III M2 RWS"
+    },
+    "BP_LPPV": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "LPPV"
+    },
+    "BP_LPPV_M2RWS": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "LPPV RWS"
+    },
+    "BP_LPPV_M2RWS_Woodland": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "LPPV RWS"
+    },
+    "BP_LPPV_Woodland": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "LPPV"
+    },
+    "BP_LUVW": {
+      "category": "TRAN",
+      "icon": "map_jeep_transport",
+      "image": "vehicles/jeep_transport_vehicle_icon.png",
+      "label": "LUVW Transport"
+    },
+    "BP_LUVW_C6": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "LUVW C6"
+    },
+    "BP_LUVW_C6_Desert": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "LUVW C6"
+    },
+    "BP_LUVW_Desert": {
+      "category": "TRAN",
+      "icon": "map_jeep_transport",
+      "image": "vehicles/jeep_transport_vehicle_icon.png",
+      "label": "LUVW Transport"
+    },
+    "BP_LUVW_Logi": {
+      "category": "LOGI",
+      "icon": "map_jeep_logistics",
+      "image": "vehicles/jeep_logistics_vehicle_icon.png",
+      "label": "LUVW Logistics"
+    },
+    "BP_LUVW_Logi_Desert": {
+      "category": "LOGI",
+      "icon": "map_jeep_logistics",
+      "image": "vehicles/jeep_logistics_vehicle_icon.png",
+      "label": "LUVW Logistics"
+    },
+    "BP_LUVW_M2": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "LUVW M2"
+    },
+    "BP_LUVW_M2_Desert": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "LUVW M2"
+    },
+    "BP_M-Gator_Logistics": {
+      "category": "LOGI",
+      "icon": "map_jeep_logistics",
+      "image": "vehicles/jeep_logistics_vehicle_icon.png",
+      "label": "LUV-A1 Logistics"
+    },
+    "BP_M-Gator_Logistics_ARID": {
+      "category": "LOGI",
+      "icon": "map_jeep_logistics",
+      "image": "vehicles/jeep_logistics_vehicle_icon.png",
+      "label": "LUV-A1 Logistics"
+    },
+    "BP_M-Gator_Transport": {
+      "category": "TRAN",
+      "icon": "map_jeep_transport",
+      "image": "vehicles/jeep_transport_vehicle_icon.png",
+      "label": "LUV-A1 Transport"
+    },
+    "BP_M-Gator_Transport_ARID": {
+      "category": "TRAN",
+      "icon": "map_jeep_transport",
+      "image": "vehicles/jeep_transport_vehicle_icon.png",
+      "label": "LUV-A1 Transport"
+    },
+    "BP_M1126": {
+      "category": "APC",
+      "icon": "map_apc",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "M1126 CROWS M2"
+    },
+    "BP_M1126_M240": {
+      "category": "APC",
+      "icon": "map_apc",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "M1126 CROWS M240"
+    },
+    "BP_M1126_M240_Woodland": {
+      "category": "APC",
+      "icon": "map_apc",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "M1126 CROWS M240"
+    },
+    "BP_M1126_Woodland": {
+      "category": "APC",
+      "icon": "map_apc",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "M1126 CROWS M2"
+    },
+    "BP_M113A3_C6_Desert": {
+      "category": "APC",
+      "icon": "map_trackedjeep",
+      "image": "vehicles/trackedjeep_vehicle_icon.png",
+      "label": "M113A3 C6"
+    },
+    "BP_M113A3_M2": {
+      "category": "APC",
+      "icon": "map_trackedjeep",
+      "image": "vehicles/trackedjeep_vehicle_icon.png",
+      "label": "M113A3 M2"
+    },
+    "BP_M113A3_M2_Desert": {
+      "category": "APC",
+      "icon": "map_trackedjeep",
+      "image": "vehicles/trackedjeep_vehicle_icon.png",
+      "label": "M113A3 M2"
+    },
+    "BP_M113A3_TLAV": {
+      "category": "APC",
+      "icon": "map_trackedapc",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "M113A3 TLAV"
+    },
+    "BP_M113A3_TLAV_Desert": {
+      "category": "APC",
+      "icon": "map_trackedapc",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "M113A3 TLAV"
+    },
+    "BP_M1151": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "M1151 M2"
+    },
+    "BP_M1151_CROWS": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "M1151 CROWS M2"
+    },
+    "BP_M1151_CROWS_Woodland": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "M1151 CROWS M2"
+    },
+    "BP_M1151_Light": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "M1151 M2 Open Doors"
+    },
+    "BP_M1151_Light_Woodland": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "M1151 M2 Open Doors"
+    },
+    "BP_M1151_Technical": {
+      "category": "LTV",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Shitty Technical DShK"
+    },
+    "BP_M1151_Woodland": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "M1151 M2"
+    },
+    "BP_M1A1_USMC": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "M1A1"
+    },
+    "BP_M1A1_USMC_Woodland": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "M1A1"
+    },
+    "BP_M1A2": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "M1A2"
+    },
+    "BP_M1A2_Woodland": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "M1A2"
+    },
+    "BP_M60T": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "M60T"
+    },
+    "BP_M60T_Desert": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "M60T"
+    },
+    "BP_MATV": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "M-ATV M2"
+    },
+    "BP_MATV_CROWS": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "M-ATV CROWS M2"
+    },
+    "BP_MATV_CROWS_M240": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "M-ATV CROWS M240"
+    },
+    "BP_MATV_CROWS_M240_Woodland": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "M-ATV CROWS M240"
+    },
+    "BP_MATV_CROWS_Woodland": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "M-ATV CROWS M2"
+    },
+    "BP_MATV_M240": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "M-ATV M240"
+    },
+    "BP_MATV_M240_Woodland": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "M-ATV M240"
+    },
+    "BP_MATV_TOW": {
+      "category": "TD",
+      "icon": "map_jeep_antitank",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "M-ATV TOW"
+    },
+    "BP_MATV_TOW_Woodland": {
+      "category": "TD",
+      "icon": "map_jeep_antitank",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "M-ATV TOW"
+    },
+    "BP_MATV_USMC": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "MATV M2"
+    },
+    "BP_MATV_USMC_CROWS": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "MATV CROWS M2"
+    },
+    "BP_MATV_USMC_CROWS_Woodland": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "MATV CROWS M2"
+    },
+    "BP_MATV_USMC_TOW": {
+      "category": "MRAP",
+      "icon": "map_jeep_antitank",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "MATV TOW"
+    },
+    "BP_MATV_USMC_TOW_Woodland": {
+      "category": "MRAP",
+      "icon": "map_jeep_antitank",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "MATV TOW"
+    },
+    "BP_MATV_USMC_Woodland": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "MATV M2"
+    },
+    "BP_MATV_Woodland": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "M-ATV M2"
+    },
+    "BP_MI17_MEA": {
+      "category": "UH",
+      "icon": "map_transporthelo",
+      "image": "vehicles/transporthelo_vehicle_icon.png",
+      "label": "Mi-17"
+    },
+    "BP_MI8": {
+      "category": "UH",
+      "icon": "map_transporthelo",
+      "image": "vehicles/transporthelo_vehicle_icon.png",
+      "label": "Mi-8"
+    },
+    "BP_MI8_VDV": {
+      "category": "UH",
+      "icon": "map_transporthelo",
+      "image": "vehicles/transporthelo_vehicle_icon.png",
+      "label": "Mi-8"
+    },
+    "BP_MRH90_Mag58": {
+      "category": "UH",
+      "icon": "map_transporthelo",
+      "image": "vehicles/transporthelo_vehicle_icon.png",
+      "label": "MRH-90"
+    },
+    "BP_MTLBM_6MA_MEA": {
+      "category": "APC",
+      "icon": "map_trackedapc",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "MT-LBM 6MA S8"
+    },
+    "BP_MTLBM_6MA_RUS": {
+      "category": "APC",
+      "icon": "map_trackedapc",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "MT-LBM 6MA"
+    },
+    "BP_MTLBM_6MA_RUS_Desert": {
+      "category": "APC",
+      "icon": "map_trackedapc",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "MT-LBM 6MA"
+    },
+    "BP_MTLBM_6MB_MIL": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "MT-LBM 6MB"
+    },
+    "BP_MTLBM_6MB_RUS": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "MT-LBM 6MB"
+    },
+    "BP_MTLBM_6MB_RUS_Desert": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "MT-LBM 6MB"
+    },
+    "BP_MTLB_INS": {
+      "category": "APC",
+      "icon": "map_trackedapc",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "MT-LB PKT"
+    },
+    "BP_MTLB_LOGI_RUS": {
+      "category": "LOGI",
+      "icon": "T_map_trackedapc_logistics",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "MT-LB Logistics"
+    },
+    "BP_MTLB_VMK_MEA": {
+      "category": "APC",
+      "icon": "map_trackedapc",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "MT-LB VMK"
+    },
+    "BP_MTLB_VMK_MIL": {
+      "category": "APC",
+      "icon": "map_trackedapc",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "MT-LB VMK"
+    },
+    "BP_MTLB_VMK_RUS": {
+      "category": "APC",
+      "icon": "map_trackedapc",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "MT-LB VMK"
+    },
+    "BP_MTLB_VMK_RUS_Desert": {
+      "category": "APC",
+      "icon": "map_trackedapc",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "MT-LB VMK"
+    },
+    "BP_MTLB_ZU23_INS": {
+      "category": "SPAA",
+      "icon": "map_antiair",
+      "image": "vehicles/antiair_vehicle_icon.png",
+      "label": "MT-LB ZU-23-2"
+    },
+    "BP_MTLB_ZU23_MIL": {
+      "category": "SPAA",
+      "icon": "map_antiair",
+      "image": "vehicles/antiair_vehicle_icon.png",
+      "label": "MT-LB ZU-23-2"
+    },
+    "BP_Minsk_black": {
+      "category": "ULTV",
+      "icon": "map_motorcycle",
+      "image": "vehicles/motorcycle_vehicle_icon.png",
+      "label": "Minsk 400"
+    },
+    "BP_Minsk_blue": {
+      "category": "ULTV",
+      "icon": "map_motorcycle",
+      "image": "vehicles/motorcycle_vehicle_icon.png",
+      "label": "Minsk 400"
+    },
+    "BP_Minsk_green": {
+      "category": "ULTV",
+      "icon": "map_motorcycle",
+      "image": "vehicles/motorcycle_vehicle_icon.png",
+      "label": "Minsk 400"
+    },
+    "BP_PARS3": {
+      "category": "IFV",
+      "icon": "map_ifv",
+      "image": "vehicles/ifv_vehicle_icon.png",
+      "label": "PARS III 25mm"
+    },
+    "BP_PARS3_Desert": {
+      "category": "IFV",
+      "icon": "map_ifv",
+      "image": "vehicles/ifv_vehicle_icon.png",
+      "label": "PARS III 25mm"
+    },
+    "BP_PARS3_M2": {
+      "category": "APC",
+      "icon": "map_apc",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "PARS III M2 RWS"
+    },
+    "BP_PARS3_M2_Desert": {
+      "category": "APC",
+      "icon": "map_apc",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "PARS III M2 RWS"
+    },
+    "BP_PARS3_MG3": {
+      "category": "APC",
+      "icon": "map_apc",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "PARS III MG3 RWS"
+    },
+    "BP_PARS3_MG3_Desert": {
+      "category": "APC",
+      "icon": "map_apc",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "PARS III MG3 RWS"
+    },
+    "BP_PARS3_MK19": {
+      "category": "APC",
+      "icon": "map_apc",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "PARS III Mk19 RWS"
+    },
+    "BP_PARS3_MK19_Desert": {
+      "category": "APC",
+      "icon": "map_apc",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "PARS III Mk19 RWS"
+    },
+    "BP_PMV_Mag58": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "PMV Mag58"
+    },
+    "BP_PMV_Mag58x3": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "PMV Mag58 x3"
+    },
+    "BP_PMV_RWS": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "PMV RWS M2"
+    },
+    "BP_RHIB_DSHK": {
+      "category": "ULTV",
+      "icon": "T_map_boat_openturret",
+      "image": "vehicles/boat_vehicle_icon.png",
+      "label": "RHIB DShK"
+    },
+    "BP_RHIB_Logistics": {
+      "category": "LOGI",
+      "icon": "T_map_boat_logistics",
+      "image": "vehicles/boat_vehicle_icon.png",
+      "label": "RHIB Logistics"
+    },
+    "BP_RHIB_PKM": {
+      "category": "ULTV",
+      "icon": "T_map_boat_openturret",
+      "image": "vehicles/boat_vehicle_icon.png",
+      "label": "RHIB PKM"
+    },
+    "BP_RHIB_QJY88": {
+      "category": "ULTV",
+      "icon": "T_map_boat_openturret",
+      "image": "vehicles/boat_vehicle_icon.png",
+      "label": "RHIB QJY88"
+    },
+    "BP_RHIB_QJZ89": {
+      "category": "ULTV",
+      "icon": "T_map_boat_openturret",
+      "image": "vehicles/boat_vehicle_icon.png",
+      "label": "RHIB QJZ89"
+    },
+    "BP_RHIB_RUS_NSV": {
+      "category": "ULTV",
+      "icon": "T_map_boat_openturret",
+      "image": "vehicles/boat_vehicle_icon.png",
+      "label": "RHIB NSV"
+    },
+    "BP_RHIB_RUS_PKP": {
+      "category": "ULTV",
+      "icon": "T_map_boat_openturret",
+      "image": "vehicles/boat_vehicle_icon.png",
+      "label": "RHIB PKP"
+    },
+    "BP_RHIB_Transport": {
+      "category": "ULTV",
+      "icon": "map_boat",
+      "image": "vehicles/boat_vehicle_icon.png",
+      "label": "RHIB Transport"
+    },
+    "BP_RHIB_US_M2": {
+      "category": "ULTV",
+      "icon": "T_map_boat_openturret",
+      "image": "vehicles/boat_vehicle_icon.png",
+      "label": "RHIB M2"
+    },
+    "BP_RHIB_US_M240": {
+      "category": "ULTV",
+      "icon": "T_map_boat_openturret",
+      "image": "vehicles/boat_vehicle_icon.png",
+      "label": "RHIB M240"
+    },
+    "BP_SA330": {
+      "category": "UH",
+      "icon": "map_transporthelo",
+      "image": "vehicles/transporthelo_vehicle_icon.png",
+      "label": "SA330"
+    },
+    "BP_Safir": {
+      "category": "LOGI",
+      "icon": "map_jeep_logistics",
+      "image": "vehicles/jeep_logistics_vehicle_icon.png",
+      "label": "Simir Logi"
+    },
+    "BP_Safir_Kord": {
+      "category": "LTV",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Simir Kord"
+    },
+    "BP_Safir_Kornet": {
+      "category": "TD",
+      "icon": "map_jeep_antitank",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Simir Kornet"
+    },
+    "BP_Safir_MG3": {
+      "category": "LTV",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Simir MG3"
+    },
+    "BP_Sprut": {
+      "category": "MGS",
+      "icon": "T_map_mgs",
+      "label": "Sprut-SDM1"
+    },
+    "BP_Sprut_Desert": {
+      "category": "MGS",
+      "icon": "T_map_mgs",
+      "label": "Sprut-SDM1"
+    },
+    "BP_T62": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "T-62"
+    },
+    "BP_T62_MEA": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "T-62"
+    },
+    "BP_T62_MIL": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "T-62"
+    },
+    "BP_T72AV_MEA": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "T-72S"
+    },
+    "BP_T72B3": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "T-72B3"
+    },
+    "BP_T72B3_Desert": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "T-72B3"
+    },
+    "BP_TAPV": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "TAPV M2"
+    },
+    "BP_TAPV_C6": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "TAPV C6"
+    },
+    "BP_TAPV_C6_Desert": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "TAPV C6"
+    },
+    "BP_TAPV_Desert": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "TAPV M2"
+    },
+    "BP_TLF_Util_Truck": {
+      "category": "TRAN",
+      "icon": "map_truck_transport",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "BMC-185 Transport"
+    },
+    "BP_TLF_Util_Truck_Desert": {
+      "category": "TRAN",
+      "icon": "map_truck_transport",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "BMC-185 Transport"
+    },
+    "BP_TLF_Util_Truck_Logi": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "BMC-185 Logsitics"
+    },
+    "BP_TLF_Util_Truck_Logi_Desert": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "BMC-185 Logsitics"
+    },
+    "BP_Technical2Seater_Camo_DSHK": {
+      "category": "LTV",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Modern Technical DShK"
+    },
+    "BP_Technical2Seater_Camo_M2": {
+      "category": "LTV",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Modern Technical M2 HB"
+    },
+    "BP_Technical2Seater_Camo_SPG9": {
+      "category": "TD",
+      "icon": "map_jeep_antitank",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Modern Technical SPG-9"
+    },
+    "BP_Technical2Seater_Camo_UB32": {
+      "category": "SPA",
+      "icon": "map_jeep_artillery",
+      "image": "vehicles/jeep_artillery_vehicle_icon.png",
+      "label": "Modern Technical UB-32"
+    },
+    "BP_Technical2Seater_Camo_ZU23": {
+      "category": "SPAA",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "Modern Technical ZU-23-2"
+    },
+    "BP_Technical2Seater_White_BMP1": {
+      "category": "TD",
+      "icon": "map_jeep_antitank",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Technical BMP-1"
+    },
+    "BP_Technical2Seater_White_Dshk": {
+      "category": "LTV",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Technical DShK Shielded"
+    },
+    "BP_Technical2Seater_White_M2": {
+      "category": "LTV",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Technical M2 HB"
+    },
+    "BP_Technical2Seater_White_Mortar": {
+      "category": "SPA",
+      "icon": "map_jeep_artillery",
+      "image": "vehicles/jeep_artillery_vehicle_icon.png",
+      "label": "Technical Mortar"
+    },
+    "BP_Technical2Seater_White_SPG9": {
+      "category": "TD",
+      "icon": "map_jeep_antitank",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Technical SPG-9"
+    },
+    "BP_Technical2Seater_White_UB32": {
+      "category": "SPA",
+      "icon": "map_jeep_artillery",
+      "image": "vehicles/jeep_artillery_vehicle_icon.png",
+      "label": "Technical UB-32"
+    },
+    "BP_Technical2Seater_White_ZU23": {
+      "category": "SPAA",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "Technical ZU-23-2"
+    },
+    "BP_Technical4Seater_Logi": {
+      "category": "LOGI",
+      "icon": "map_jeep_logistics",
+      "image": "vehicles/jeep_logistics_vehicle_icon.png",
+      "label": "Logistics Pickup Truck"
+    },
+    "BP_Technical4Seater_Logi_Camo": {
+      "category": "LOGI",
+      "icon": "map_jeep_logistics",
+      "image": "vehicles/jeep_logistics_vehicle_icon.png",
+      "label": "Logistics Modern Pickup"
+    },
+    "BP_Technical4Seater_Transport": {
+      "category": "TRAN",
+      "icon": "map_jeep_transport",
+      "image": "vehicles/jeep_transport_vehicle_icon.png",
+      "label": "Transport Pickup Truck"
+    },
+    "BP_Technical4Seater_Transport_Camo": {
+      "category": "TRAN",
+      "icon": "map_jeep_transport",
+      "image": "vehicles/jeep_transport_vehicle_icon.png",
+      "label": "Transport Modern Pickup"
+    },
+    "BP_Technical_Dshk_INS": {
+      "category": "LTV",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Technical DShK"
+    },
+    "BP_Technical_Dshk_INS_Armoured": {
+      "category": "LTV",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Armored Technical DShK"
+    },
+    "BP_Technical_Dshk_Shielded_INS": {
+      "category": "LTV",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Technical DShK Shielded"
+    },
+    "BP_Technical_Logi_INS": {
+      "category": "LOGI",
+      "icon": "map_jeep_logistics",
+      "image": "vehicles/jeep_logistics_vehicle_icon.png",
+      "label": "Logistics Pickup Truck"
+    },
+    "BP_Technical_SPG9_INS": {
+      "category": "TD",
+      "icon": "map_jeep_antitank",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Technical SPG-9"
+    },
+    "BP_Technical_SPG9_INS_Armoured": {
+      "category": "TD",
+      "icon": "map_jeep_antitank",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Armored Technical SPG-9"
+    },
+    "BP_Technical_Transport_INS": {
+      "category": "TRAN",
+      "icon": "map_jeep_transport",
+      "image": "vehicles/jeep_transport_vehicle_icon.png",
+      "label": "Transport Pickup Truck"
+    },
+    "BP_Technical_UB32_INS": {
+      "category": "SPA",
+      "icon": "map_jeep_artillery",
+      "image": "vehicles/jeep_artillery_vehicle_icon.png",
+      "label": "Technical UB-32"
+    },
+    "BP_Tigr": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Tigr-M Kord"
+    },
+    "BP_Tigr_Desert": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Tigr-M Kord"
+    },
+    "BP_Tigr_MIL": {
+      "category": "MRAP",
+      "icon": "map_jeep",
+      "image": "vehicles/jeep_vehicle_icon.png",
+      "label": "Tigr-M Kord"
+    },
+    "BP_Tigr_RWS": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "Tigr-M RWS Kord"
+    },
+    "BP_Tigr_RWS_Desert": {
+      "category": "MRAP",
+      "icon": "map_jeep_turret",
+      "image": "vehicles/jeep_turret_vehicle_icon.png",
+      "label": "Tigr-M RWS Kord"
+    },
+    "BP_UH1H": {
+      "category": "UH",
+      "icon": "map_transporthelo",
+      "image": "vehicles/transporthelo_vehicle_icon.png",
+      "label": "UH-1H"
+    },
+    "BP_UH1H_Desert": {
+      "category": "UH",
+      "icon": "map_transporthelo",
+      "image": "vehicles/transporthelo_vehicle_icon.png",
+      "label": "UH-1H"
+    },
+    "BP_UH1Y": {
+      "category": "UH",
+      "icon": "map_transporthelo",
+      "image": "vehicles/transporthelo_vehicle_icon.png",
+      "label": "UH-1Y"
+    },
+    "BP_UH60": {
+      "category": "UH",
+      "icon": "map_transporthelo",
+      "image": "vehicles/transporthelo_vehicle_icon.png",
+      "label": "UH-60M"
+    },
+    "BP_UH60_AUS": {
+      "category": "UH",
+      "icon": "map_transporthelo",
+      "image": "vehicles/transporthelo_vehicle_icon.png",
+      "label": "UH-60M"
+    },
+    "BP_US_Util_Desert": {
+      "category": "TRAN",
+      "icon": "map_truck_transport",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "M939 Transport"
+    },
+    "BP_US_Util_Desert_Logi": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "M939 Logistics"
+    },
+    "BP_US_Util_USMC_Desert": {
+      "category": "TRAN",
+      "icon": "map_truck_transport",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "M939 Transport"
+    },
+    "BP_US_Util_USMC_Desert_Logi": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "M939 Logistics"
+    },
+    "BP_US_Util_USMC_Woodland": {
+      "category": "TRAN",
+      "icon": "map_truck_transport",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "M939 Transport"
+    },
+    "BP_US_Util_USMC_Woodland_Logi": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "M939 Logistics"
+    },
+    "BP_US_Util_Woodland": {
+      "category": "TRAN",
+      "icon": "map_truck_transport",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "M939 Transport"
+    },
+    "BP_US_Util_Woodland_Logi": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "M939 Logistics"
+    },
+    "BP_Ural_375_INS": {
+      "category": "TRAN",
+      "icon": "map_truck_transport",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "Ural-375D Transport"
+    },
+    "BP_Ural_375_Logi_INS": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "Ural-375D Logistics"
+    },
+    "BP_Ural_375_Logi_MIL": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "Ural-375D Logistics"
+    },
+    "BP_Ural_375_MIL": {
+      "category": "TRAN",
+      "icon": "map_truck_transport",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "Ural-375D Transport"
+    },
+    "BP_Ural_375_ZU23": {
+      "category": "SPAA",
+      "icon": "map_truck_antiair",
+      "image": "vehicles/truck_antiair_vehicle_icon.png",
+      "label": "Ural-375D ZU-23-2"
+    },
+    "BP_Ural_375_ZU23_MIL": {
+      "category": "SPAA",
+      "icon": "map_truck_antiair",
+      "image": "vehicles/truck_antiair_vehicle_icon.png",
+      "label": "Ural-375D ZU-23-2"
+    },
+    "BP_Ural_4320_MEA": {
+      "category": "TRAN",
+      "icon": "map_truck_transport",
+      "image": "vehicles/truck_transport_vehicle_icon.png",
+      "label": "Ural-4320 Transport"
+    },
+    "BP_Ural_4320_logi_MEA": {
+      "category": "LOGI",
+      "icon": "map_truck_logistics",
+      "image": "vehicles/truck_logistics_vehicle_icon.png",
+      "label": "Ural-4320 Logistics"
+    },
+    "BP_Z8G": {
+      "category": "UH",
+      "icon": "map_transporthelo",
+      "image": "vehicles/transporthelo_vehicle_icon.png",
+      "label": "Z-8G"
+    },
+    "BP_Z8J": {
+      "category": "UH",
+      "icon": "map_transporthelo",
+      "image": "vehicles/transporthelo_vehicle_icon.png",
+      "label": "Z-8J"
+    },
+    "BP_ZBD04A": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "ZBD04A"
+    },
+    "BP_ZBD04A_Desert": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "ZBD04A"
+    },
+    "BP_ZBD05": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "ZBD05"
+    },
+    "BP_ZBD05_HJ73C": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "ZBD05 HJ73C"
+    },
+    "BP_ZBD05_Woodland": {
+      "category": "IFV",
+      "icon": "map_trackedifv",
+      "image": "vehicles/trackedifv_vehicle_icon.png",
+      "label": "ZBD05"
+    },
+    "BP_ZBL08": {
+      "category": "IFV",
+      "icon": "map_ifv",
+      "image": "vehicles/ifv_vehicle_icon.png",
+      "label": "ZBL08"
+    },
+    "BP_ZBL08_Desert": {
+      "category": "IFV",
+      "icon": "map_ifv",
+      "image": "vehicles/ifv_vehicle_icon.png",
+      "label": "ZBL08"
+    },
+    "BP_ZBL08_HJ73C": {
+      "category": "IFV",
+      "icon": "map_ifv",
+      "image": "vehicles/ifv_vehicle_icon.png",
+      "label": "ZBL08 HJ73C"
+    },
+    "BP_ZBL08_HJ73C_Desert": {
+      "category": "IFV",
+      "icon": "map_ifv",
+      "image": "vehicles/ifv_vehicle_icon.png",
+      "label": "ZBL08 HJ73C"
+    },
+    "BP_ZBL08_HJ73C_Naval": {
+      "category": "IFV",
+      "icon": "map_ifv",
+      "image": "vehicles/ifv_vehicle_icon.png",
+      "label": "ZBL08 HJ73C"
+    },
+    "BP_ZBL08_Naval": {
+      "category": "IFV",
+      "icon": "map_ifv",
+      "image": "vehicles/ifv_vehicle_icon.png",
+      "label": "ZBL08"
+    },
+    "BP_ZSD05_Logi": {
+      "category": "LOGI",
+      "icon": "T_map_trackedapc_logistics",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "ZSD05 Logistics"
+    },
+    "BP_ZSD05_Logi_Woodland": {
+      "category": "LOGI",
+      "icon": "T_map_trackedapc_logistics",
+      "image": "vehicles/trackedapc_vehicle_icon.png",
+      "label": "ZSD05 Logistics"
+    },
+    "BP_ZSD05_QJZ-89": {
+      "category": "APC",
+      "icon": "map_trackedjeep",
+      "image": "vehicles/trackedjeep_vehicle_icon.png",
+      "label": "ZSD05"
+    },
+    "BP_ZSD05_QJZ-89_Woodland": {
+      "category": "APC",
+      "icon": "map_trackedjeep",
+      "image": "vehicles/trackedjeep_vehicle_icon.png",
+      "label": "ZSD05"
+    },
+    "BP_ZSL10_QJZ-89": {
+      "category": "APC",
+      "icon": "T_map_apc_open_turret",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "ZSL10"
+    },
+    "BP_ZSL10_QJZ-89_Desert": {
+      "category": "APC",
+      "icon": "T_map_apc_open_turret",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "ZSL10"
+    },
+    "BP_ZSL10_QJZ-89_Naval": {
+      "category": "APC",
+      "icon": "T_map_apc_open_turret",
+      "image": "vehicles/apc_vehicle_icon.png",
+      "label": "ZSL10"
+    },
+    "BP_ZTD05": {
+      "category": "MGS",
+      "icon": "T_map_mgs",
+      "label": "ZTD05"
+    },
+    "BP_ZTD05_WoodLand": {
+      "category": "MGS",
+      "icon": "T_map_mgs",
+      "label": "ZTD05"
+    },
+    "BP_ZTZ99_Desert_wCage": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "ZTZ99A"
+    },
+    "BP_ZTZ99_wCage": {
+      "category": "MBT",
+      "icon": "map_tank",
+      "image": "vehicles/tank_vehicle_icon.png",
+      "label": "ZTZ99A"
+    },
+    "BP_minsk": {
+      "category": "ULTV",
+      "icon": "map_motorcycle",
+      "image": "vehicles/motorcycle_vehicle_icon.png",
+      "label": "Minsk 400"
+    }
+  },
+  "schema": 1,
+  "source": "squad-wiki-pipeline-map-data",
+  "suffix_strip": [
+    "_Woodland",
+    "_Desert",
+    "_Snow"
+  ]
+}
