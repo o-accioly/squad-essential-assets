@@ -1,14 +1,19 @@
 {
   "game_version": "Fandom-2026-05",
-  "generated_at": "2026-05-27T05:18:30.433966+00:00",
+  "generated_at": "2026-05-27T07:22:56.916772+00:00",
   "schema": 1,
   "sources": {
     "images": {
       "counts": {
+        "divisions": 41,
         "flags": 13,
+        "inventory": 22,
+        "kiticons": 17,
         "mapicons": 29,
-        "maps": 26,
+        "maps": 0,
         "roles": 23,
+        "unittypes": 33,
+        "vehicleinfo": 139,
         "vehicles": 24,
         "vehicles_wired": 316,
         "weapons": 355

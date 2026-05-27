@@ -1,5 +1,411 @@
 {
   "buckets": {
+    "divisions": [
+      {
+        "rel": "divisions/1_cmbg_division_image.png",
+        "slug": "1_cmbg_division_image",
+        "title": "1 CMBG Division Image.png"
+      },
+      {
+        "rel": "divisions/1_cav_division_image.png",
+        "slug": "1_cav_division_image",
+        "title": "1 Cav Division Image.png"
+      },
+      {
+        "rel": "divisions/1_inf_division_image.png",
+        "slug": "1_inf_division_image",
+        "title": "1 INF Division Image.png"
+      },
+      {
+        "rel": "divisions/1_yorks_division_image.png",
+        "slug": "1_yorks_division_image",
+        "title": "1 YORKS Division Image.png"
+      },
+      {
+        "rel": "divisions/108_gv_dshp_division_image.png",
+        "slug": "108_gv_dshp_division_image",
+        "title": "108 Gv DShP Division Image.png"
+      },
+      {
+        "rel": "divisions/1398_recon_division_image.png",
+        "slug": "1398_recon_division_image",
+        "title": "1398 Recon Division Image.png"
+      },
+      {
+        "rel": "divisions/1st_battalion_legion_of_babylon_division_image.png",
+        "slug": "1st_battalion_legion_of_babylon_division_image",
+        "title": "1st Battalion Legion of babylon Division Image.png"
+      },
+      {
+        "rel": "divisions/2_bpr_division_image.png",
+        "slug": "2_bpr_division_image",
+        "title": "2 BPR Division Image.png"
+      },
+      {
+        "rel": "divisions/2_cav_division_image.png",
+        "slug": "2_cav_division_image",
+        "title": "2 CAV Division Image.png"
+      },
+      {
+        "rel": "divisions/205_omsbr_division_image.png",
+        "slug": "205_omsbr_division_image",
+        "title": "205 OMSBr Division Image.png"
+      },
+      {
+        "rel": "divisions/238_ky_arng_division_image.png",
+        "slug": "238_ky_arng_division_image",
+        "title": "238 KY ARNG Division Image.png"
+      },
+      {
+        "rel": "divisions/247_gv_dshp_division_image.png",
+        "slug": "247_gv_dshp_division_image",
+        "title": "247 Gv DShP Division Image.png"
+      },
+      {
+        "rel": "divisions/3_ppcli_division_image.png",
+        "slug": "3_ppcli_division_image",
+        "title": "3 PPCLI Division Image.png"
+      },
+      {
+        "rel": "divisions/3_rcr_division_image.png",
+        "slug": "3_rcr_division_image",
+        "title": "3 RCR Division Image.png"
+      },
+      {
+        "rel": "divisions/3_rifles_division_image.png",
+        "slug": "3_rifles_division_image",
+        "title": "3 RIFLES Division Image.png"
+      },
+      {
+        "rel": "divisions/37_armor_division_image.png",
+        "slug": "37_armor_division_image",
+        "title": "37 Armor Division Image.png"
+      },
+      {
+        "rel": "divisions/3ukdiv_division_image.png",
+        "slug": "3ukdiv_division_image",
+        "title": "3UKDIV Division Image.png"
+      },
+      {
+        "rel": "divisions/3rd_king_qadesh_mechanized_infantry_brigade_division_image.png",
+        "slug": "3rd_king_qadesh_mechanized_infantry_brigade_division_image",
+        "title": "3rd King Qadesh Mechanized Infantry Brigade Division Image.png"
+      },
+      {
+        "rel": "divisions/49_oa_division_image.png",
+        "slug": "49_oa_division_image",
+        "title": "49 OA Division Image.png"
+      },
+      {
+        "rel": "divisions/4th_border_guard_force_group_division_image.png",
+        "slug": "4th_border_guard_force_group_division_image",
+        "title": "4th Border Guard Force Group Division Image.png"
+      },
+      {
+        "rel": "divisions/504_pir_division_image.png",
+        "slug": "504_pir_division_image",
+        "title": "504 PIR Division Image.png"
+      },
+      {
+        "rel": "divisions/6_otbr_division_image.png",
+        "slug": "6_otbr_division_image",
+        "title": "6 OTBr Division Image.png"
+      },
+      {
+        "rel": "divisions/60th_prince_assur_armored_brigade_division_image.png",
+        "slug": "60th_prince_assur_armored_brigade_division_image",
+        "title": "60th Prince Assur Armored Brigade Division Image.png"
+      },
+      {
+        "rel": "divisions/78_obrmto_division_image.png",
+        "slug": "78_obrmto_division_image",
+        "title": "78 OBrMTO Division Image.png"
+      },
+      {
+        "rel": "divisions/83rd_prince_zaid_motorized_infantry_brigade_division_image.png",
+        "slug": "83rd_prince_zaid_motorized_infantry_brigade_division_image",
+        "title": "83rd Prince Zaid Motorized Infantry Brigade Division Image.png"
+      },
+      {
+        "rel": "divisions/91th_air_assault_battalion_division_image.png",
+        "slug": "91th_air_assault_battalion_division_image",
+        "title": "91th Air Assault Battalion Division Image.png"
+      },
+      {
+        "rel": "divisions/ccsb_division_image.png",
+        "slug": "ccsb_division_image",
+        "title": "CCSB Division Image.png"
+      },
+      {
+        "rel": "divisions/gren_gds_division_image.png",
+        "slug": "gren_gds_division_image",
+        "title": "GREN GDS Division Image.png"
+      },
+      {
+        "rel": "divisions/ldsh_division_image.png",
+        "slug": "ldsh_division_image",
+        "title": "LdSH Division Image.png"
+      },
+      {
+        "rel": "divisions/qrh_division_image.png",
+        "slug": "qrh_division_image",
+        "title": "QRH Division Image.png"
+      },
+      {
+        "rel": "divisions/r_nfld_r_division_image.png",
+        "slug": "r_nfld_r_division_image",
+        "title": "R NFLD R Division Image.png"
+      },
+      {
+        "rel": "divisions/royal_logistic_corps_division_image.png",
+        "slug": "royal_logistic_corps_division_image",
+        "title": "ROYAL LOGISTIC CORPS Division Image.png"
+      },
+      {
+        "rel": "divisions/the_westies_division_image.png",
+        "slug": "the_westies_division_image",
+        "title": "The Westies Division Image.png"
+      },
+      {
+        "rel": "divisions/unit_gbarmy_division_image.png",
+        "slug": "unit_gbarmy_division_image",
+        "title": "Unit GBArmy Division Image.png"
+      },
+      {
+        "rel": "divisions/unit_insurgents_division_image.png",
+        "slug": "unit_insurgents_division_image",
+        "title": "Unit Insurgents Division Image.png"
+      },
+      {
+        "rel": "divisions/unit_meaarmy_division_image.png",
+        "slug": "unit_meaarmy_division_image",
+        "title": "Unit MEAArmy Division Image.png"
+      },
+      {
+        "rel": "divisions/unit_militia_division_image.png",
+        "slug": "unit_militia_division_image",
+        "title": "Unit Militia Division Image.png"
+      },
+      {
+        "rel": "divisions/unit_ruarmy_division_image.png",
+        "slug": "unit_ruarmy_division_image",
+        "title": "Unit RUArmy Division Image.png"
+      },
+      {
+        "rel": "divisions/unit_usarmy_division_image.png",
+        "slug": "unit_usarmy_division_image",
+        "title": "Unit USArmy Division Image.png"
+      },
+      {
+        "rel": "divisions/van_doos_division_image.png",
+        "slug": "van_doos_division_image",
+        "title": "Van Doos Division Image.png"
+      },
+      {
+        "rel": "divisions/vizir_hussein_2nd_support_battalion_division_image.png",
+        "slug": "vizir_hussein_2nd_support_battalion_division_image",
+        "title": "Vizir Hussein 2nd Support Battalion Division Image.png"
+      }
+    ],
+    "inventory": [
+      {
+        "rel": "inventory/icon_inventory_category_binoculars.png",
+        "slug": "icon_inventory_category_binoculars",
+        "title": "Icon Inventory category binoculars.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_bullet.png",
+        "slug": "icon_inventory_category_bullet",
+        "title": "Icon Inventory category bullet.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_detonator.png",
+        "slug": "icon_inventory_category_detonator",
+        "title": "Icon Inventory category detonator.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_dmr.png",
+        "slug": "icon_inventory_category_dmr",
+        "title": "Icon Inventory category dmr.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_explosives.png",
+        "slug": "icon_inventory_category_explosives",
+        "title": "Icon Inventory category explosives.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_fielddressing.png",
+        "slug": "icon_inventory_category_fielddressing",
+        "title": "Icon Inventory category fielddressing.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_fraggrenade.png",
+        "slug": "icon_inventory_category_fraggrenade",
+        "title": "Icon Inventory category fraggrenade.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_grenadelauncher.png",
+        "slug": "icon_inventory_category_grenadelauncher",
+        "title": "Icon Inventory category grenadelauncher.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_incendiarygrenade.png",
+        "slug": "icon_inventory_category_incendiarygrenade",
+        "title": "Icon Inventory category incendiarygrenade.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_lat.png",
+        "slug": "icon_inventory_category_lat",
+        "title": "Icon Inventory category lat.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_machinegun.png",
+        "slug": "icon_inventory_category_machinegun",
+        "title": "Icon Inventory category machinegun.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_medkit.png",
+        "slug": "icon_inventory_category_medkit",
+        "title": "Icon Inventory category medkit.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_mortar.png",
+        "slug": "icon_inventory_category_mortar",
+        "title": "Icon Inventory category mortar.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_pistol.png",
+        "slug": "icon_inventory_category_pistol",
+        "title": "Icon Inventory category pistol.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_repair.png",
+        "slug": "icon_inventory_category_repair",
+        "title": "Icon Inventory category repair.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_resupply.png",
+        "slug": "icon_inventory_category_resupply",
+        "title": "Icon Inventory category resupply.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_rifle.png",
+        "slug": "icon_inventory_category_rifle",
+        "title": "Icon Inventory category rifle.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_rocket.png",
+        "slug": "icon_inventory_category_rocket",
+        "title": "Icon Inventory category rocket.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_shotgun.png",
+        "slug": "icon_inventory_category_shotgun",
+        "title": "Icon Inventory category shotgun.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_shovel.png",
+        "slug": "icon_inventory_category_shovel",
+        "title": "Icon Inventory category shovel.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_smokegrenade.png",
+        "slug": "icon_inventory_category_smokegrenade",
+        "title": "Icon Inventory category smokegrenade.png"
+      },
+      {
+        "rel": "inventory/icon_inventory_category_tankshell.png",
+        "slug": "icon_inventory_category_tankshell",
+        "title": "Icon Inventory category tankshell.png"
+      }
+    ],
+    "kiticons": [
+      {
+        "rel": "kiticons/icon_automatic_rifleman_kit.png",
+        "slug": "icon_automatic_rifleman_kit",
+        "title": "Icon Automatic Rifleman kit.png"
+      },
+      {
+        "rel": "kiticons/icon_combat_engineer_kit.png",
+        "slug": "icon_combat_engineer_kit",
+        "title": "Icon Combat Engineer kit.png"
+      },
+      {
+        "rel": "kiticons/icon_crewman_kit.png",
+        "slug": "icon_crewman_kit",
+        "title": "Icon Crewman kit.png"
+      },
+      {
+        "rel": "kiticons/icon_grenadier_kit.png",
+        "slug": "icon_grenadier_kit",
+        "title": "Icon Grenadier kit.png"
+      },
+      {
+        "rel": "kiticons/icon_heavy_anti_tank_kit.png",
+        "slug": "icon_heavy_anti_tank_kit",
+        "title": "Icon Heavy Anti Tank kit.png"
+      },
+      {
+        "rel": "kiticons/icon_light_anti_tank_kit.png",
+        "slug": "icon_light_anti_tank_kit",
+        "title": "Icon Light Anti Tank kit.png"
+      },
+      {
+        "rel": "kiticons/icon_machine_gunner_kit.png",
+        "slug": "icon_machine_gunner_kit",
+        "title": "Icon Machine Gunner kit.png"
+      },
+      {
+        "rel": "kiticons/icon_marksman_kit.png",
+        "slug": "icon_marksman_kit",
+        "title": "Icon Marksman kit.png"
+      },
+      {
+        "rel": "kiticons/icon_medic_kit.png",
+        "slug": "icon_medic_kit",
+        "title": "Icon Medic kit.png"
+      },
+      {
+        "rel": "kiticons/icon_pilot.jpg",
+        "slug": "icon_pilot",
+        "title": "Icon Pilot.jpg"
+      },
+      {
+        "rel": "kiticons/icon_raider_kit.png",
+        "slug": "icon_raider_kit",
+        "title": "Icon Raider kit.png"
+      },
+      {
+        "rel": "kiticons/icon_rifleman_kit.png",
+        "slug": "icon_rifleman_kit",
+        "title": "Icon Rifleman kit.png"
+      },
+      {
+        "rel": "kiticons/icon_sapper_kit.png",
+        "slug": "icon_sapper_kit",
+        "title": "Icon Sapper kit.png"
+      },
+      {
+        "rel": "kiticons/icon_scout_kit.png",
+        "slug": "icon_scout_kit",
+        "title": "Icon Scout kit.png"
+      },
+      {
+        "rel": "kiticons/icon_sniper_kit.png",
+        "slug": "icon_sniper_kit",
+        "title": "Icon Sniper kit.png"
+      },
+      {
+        "rel": "kiticons/icon_squad_leader_kit.png",
+        "slug": "icon_squad_leader_kit",
+        "title": "Icon Squad Leader kit.png"
+      },
+      {
+        "rel": "kiticons/icon_unarmed_kit.png",
+        "slug": "icon_unarmed_kit",
+        "title": "Icon Unarmed kit.png"
+      }
+    ],
     "mapicons": [
       {
         "rel": "mapicons/03_03_03_gamemode_injurcency_cache_defend.jpg",
@@ -262,6 +668,870 @@
         "rel": "roles/squad_roles.png",
         "slug": "squad_roles",
         "title": "Squad Roles.png"
+      }
+    ],
+    "unittypes": [
+      {
+        "rel": "unittypes/icon_aa_front.png",
+        "slug": "icon_aa_front",
+        "title": "Icon AA Front.png"
+      },
+      {
+        "rel": "unittypes/icon_aa_side.png",
+        "slug": "icon_aa_side",
+        "title": "Icon AA Side.png"
+      },
+      {
+        "rel": "unittypes/icon_apc_front.png",
+        "slug": "icon_apc_front",
+        "title": "Icon APC Front.png"
+      },
+      {
+        "rel": "unittypes/icon_airassault.png",
+        "slug": "icon_airassault",
+        "title": "Icon AirAssault.png"
+      },
+      {
+        "rel": "unittypes/icon_amphibiousassault.png",
+        "slug": "icon_amphibiousassault",
+        "title": "Icon AmphibiousAssault.png"
+      },
+      {
+        "rel": "unittypes/icon_armored.png",
+        "slug": "icon_armored",
+        "title": "Icon Armored.png"
+      },
+      {
+        "rel": "unittypes/icon_boat_front.png",
+        "slug": "icon_boat_front",
+        "title": "Icon Boat Front.png"
+      },
+      {
+        "rel": "unittypes/icon_combinedarms.png",
+        "slug": "icon_combinedarms",
+        "title": "Icon CombinedArms.png"
+      },
+      {
+        "rel": "unittypes/icon_ifvtracked_front.png",
+        "slug": "icon_ifvtracked_front",
+        "title": "Icon IFVTracked Front.png"
+      },
+      {
+        "rel": "unittypes/icon_jeep_front.png",
+        "slug": "icon_jeep_front",
+        "title": "Icon Jeep Front.png"
+      },
+      {
+        "rel": "unittypes/icon_jeep_side.png",
+        "slug": "icon_jeep_side",
+        "title": "Icon Jeep Side.png"
+      },
+      {
+        "rel": "unittypes/icon_lightinfantry.png",
+        "slug": "icon_lightinfantry",
+        "title": "Icon LightInfantry.png"
+      },
+      {
+        "rel": "unittypes/icon_minsk_01.png",
+        "slug": "icon_minsk_01",
+        "title": "Icon Minsk 01.png"
+      },
+      {
+        "rel": "unittypes/icon_minsk_02.png",
+        "slug": "icon_minsk_02",
+        "title": "Icon Minsk 02.png"
+      },
+      {
+        "rel": "unittypes/icon_support.png",
+        "slug": "icon_support",
+        "title": "Icon Support.png"
+      },
+      {
+        "rel": "unittypes/icon_symbolairborne.png",
+        "slug": "icon_symbolairborne",
+        "title": "Icon SymbolAirborne.png"
+      },
+      {
+        "rel": "unittypes/icon_symbolairmobile.png",
+        "slug": "icon_symbolairmobile",
+        "title": "Icon SymbolAirmobile.png"
+      },
+      {
+        "rel": "unittypes/icon_symbolamphibious.png",
+        "slug": "icon_symbolamphibious",
+        "title": "Icon SymbolAmphibious.png"
+      },
+      {
+        "rel": "unittypes/icon_symbolarmored.png",
+        "slug": "icon_symbolarmored",
+        "title": "Icon SymbolArmored.png"
+      },
+      {
+        "rel": "unittypes/icon_symbolcombinedarms.png",
+        "slug": "icon_symbolcombinedarms",
+        "title": "Icon SymbolCombinedArms.png"
+      },
+      {
+        "rel": "unittypes/icon_symbolinfantry.png",
+        "slug": "icon_symbolinfantry",
+        "title": "Icon SymbolInfantry.png"
+      },
+      {
+        "rel": "unittypes/icon_symbolmechanized.png",
+        "slug": "icon_symbolmechanized",
+        "title": "Icon SymbolMechanized.png"
+      },
+      {
+        "rel": "unittypes/icon_symbolmotorized.png",
+        "slug": "icon_symbolmotorized",
+        "title": "Icon SymbolMotorized.png"
+      },
+      {
+        "rel": "unittypes/icon_symbolsupport.png",
+        "slug": "icon_symbolsupport",
+        "title": "Icon SymbolSupport.png"
+      },
+      {
+        "rel": "unittypes/icon_symbolunarmed.png",
+        "slug": "icon_symbolunarmed",
+        "title": "Icon SymbolUnarmed.png"
+      },
+      {
+        "rel": "unittypes/icon_tank_front.png",
+        "slug": "icon_tank_front",
+        "title": "Icon Tank Front.png"
+      },
+      {
+        "rel": "unittypes/icon_tracked_front.png",
+        "slug": "icon_tracked_front",
+        "title": "Icon Tracked Front.png"
+      },
+      {
+        "rel": "unittypes/icon_tracked_side.png",
+        "slug": "icon_tracked_side",
+        "title": "Icon Tracked Side.png"
+      },
+      {
+        "rel": "unittypes/icon_tracked.png",
+        "slug": "icon_tracked",
+        "title": "Icon Tracked.png"
+      },
+      {
+        "rel": "unittypes/icon_truck_front.png",
+        "slug": "icon_truck_front",
+        "title": "Icon Truck Front.png"
+      },
+      {
+        "rel": "unittypes/icon_unconventionnal_heavy.png",
+        "slug": "icon_unconventionnal_heavy",
+        "title": "Icon Unconventionnal Heavy.png"
+      },
+      {
+        "rel": "unittypes/icon_unconventionnal_light.png",
+        "slug": "icon_unconventionnal_light",
+        "title": "Icon Unconventionnal Light.png"
+      },
+      {
+        "rel": "unittypes/icon_wheeled.png",
+        "slug": "icon_wheeled",
+        "title": "Icon Wheeled.png"
+      }
+    ],
+    "vehicleinfo": [
+      {
+        "rel": "vehicleinfo/ural_375d_logistics_ins_statistics.jpg",
+        "slug": "ural_375d_logistics_ins_statistics",
+        "title": "-Ural 375D Logistics INS Statistics.jpg"
+      },
+      {
+        "rel": "vehicleinfo/aavcinfocard.png",
+        "slug": "aavcinfocard",
+        "title": "AAVCInfocard.png"
+      },
+      {
+        "rel": "vehicleinfo/aavpinfocard.png",
+        "slug": "aavpinfocard",
+        "title": "AAVPInfocard.png"
+      },
+      {
+        "rel": "vehicleinfo/acv_15_infocard.png",
+        "slug": "acv_15_infocard",
+        "title": "ACV-15 Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/acv_15_m2_infocard.png",
+        "slug": "acv_15_m2_infocard",
+        "title": "ACV-15 M2 Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/acv_15_mg3_infocard.png",
+        "slug": "acv_15_mg3_infocard",
+        "title": "ACV-15 MG3 Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/aslav25infocard.png",
+        "slug": "aslav25infocard",
+        "title": "ASLAV25Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/armored_technical_dhsk_infosheet.png",
+        "slug": "armored_technical_dhsk_infosheet",
+        "title": "Armored Technical DHsK Infosheet.png"
+      },
+      {
+        "rel": "vehicleinfo/armored_technical_spg_infosheet.png",
+        "slug": "armored_technical_spg_infosheet",
+        "title": "Armored Technical SPG Infosheet.png"
+      },
+      {
+        "rel": "vehicleinfo/bmp_1_infosheet.png",
+        "slug": "bmp_1_infosheet",
+        "title": "BMP-1 - infosheet.png"
+      },
+      {
+        "rel": "vehicleinfo/bmp_1_zu_23_infocard.jpg",
+        "slug": "bmp_1_zu_23_infocard",
+        "title": "BMP-1 ZU-23 infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/brdm_2_statistics.jpg",
+        "slug": "brdm_2_statistics",
+        "title": "BRDM-2 Statistics.jpg"
+      },
+      {
+        "rel": "vehicleinfo/brdm_2_statistics.png",
+        "slug": "brdm_2_statistics",
+        "title": "BRDM-2 Statistics.png"
+      },
+      {
+        "rel": "vehicleinfo/brdm2_spandrel_infocard.png",
+        "slug": "brdm2_spandrel_infocard",
+        "title": "BRDM2 spandrel infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/brdmmeainfocard.jpg",
+        "slug": "brdmmeainfocard",
+        "title": "BRDMMEAInfocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/btr_80_statistic.jpg",
+        "slug": "btr_80_statistic",
+        "title": "BTR-80 Statistic.jpg"
+      },
+      {
+        "rel": "vehicleinfo/btr_82a_ifv_statistic.jpg",
+        "slug": "btr_82a_ifv_statistic",
+        "title": "BTR-82A IFV Statistic.jpg"
+      },
+      {
+        "rel": "vehicleinfo/ch146infocard.jpg",
+        "slug": "ch146infocard",
+        "title": "CH146Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/ch178infocard.jpg",
+        "slug": "ch178infocard",
+        "title": "CH178Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/ctm131_pla_infocard.png",
+        "slug": "ctm131_pla_infocard",
+        "title": "CTM131 PLA Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/ctm131_planmc_infocard.png",
+        "slug": "ctm131_planmc_infocard",
+        "title": "CTM131 PLANMC Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/ctm131_qjy88_pla_infocard.png",
+        "slug": "ctm131_qjy88_pla_infocard",
+        "title": "CTM131 QJY88 PLA Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/ctm131_qjy88_planmc_infocard.png",
+        "slug": "ctm131_qjy88_planmc_infocard",
+        "title": "CTM131 QJY88 PLANMC Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/ctm131_qjz89_pla_infocard.png",
+        "slug": "ctm131_qjz89_pla_infocard",
+        "title": "CTM131 QJZ89 PLA Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/ctm131_qjz89_planmc_infocard.png",
+        "slug": "ctm131_qjz89_planmc_infocard",
+        "title": "CTM131 QJZ89 PLANMC Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/fv107_cvrt.jpg",
+        "slug": "fv107_cvrt",
+        "title": "FV107 CVRT.jpeg"
+      },
+      {
+        "rel": "vehicleinfo/fv520_ctas40_infocard.png",
+        "slug": "fv520_ctas40_infocard",
+        "title": "FV520 CTAS40 Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/hx60logiinfocard.png",
+        "slug": "hx60logiinfocard",
+        "title": "HX60LogiInfocard.png"
+      },
+      {
+        "rel": "vehicleinfo/hx60transinfocard.png",
+        "slug": "hx60transinfocard",
+        "title": "HX60TransInfocard.png"
+      },
+      {
+        "rel": "vehicleinfo/kamaz_5350_logi_infocard.jpg",
+        "slug": "kamaz_5350_logi_infocard",
+        "title": "Kamaz 5350 Logi Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/kamaz_5350_trans_infocard.jpg",
+        "slug": "kamaz_5350_trans_infocard",
+        "title": "Kamaz 5350 Trans Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/lav_6_0_infocard.jpg",
+        "slug": "lav_6_0_infocard",
+        "title": "LAV 6.0 infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/lav_iii_infocard.jpg",
+        "slug": "lav_iii_infocard",
+        "title": "LAV III Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/lav25infocard.png",
+        "slug": "lav25infocard",
+        "title": "LAV25Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/lppv_infocard.png",
+        "slug": "lppv_infocard",
+        "title": "LPPV Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/lppv_rws_infocard.png",
+        "slug": "lppv_rws_infocard",
+        "title": "LPPV RWS Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/luv_a1_logi_infocard.jpg",
+        "slug": "luv_a1_logi_infocard",
+        "title": "LUV-A1 Logi infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/luv_a1_trans_infocard.jpg",
+        "slug": "luv_a1_trans_infocard",
+        "title": "LUV-A1 Trans. infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/luvwc6infocard.png",
+        "slug": "luvwc6infocard",
+        "title": "LUVWC6Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/luvwlogiinfocard.png",
+        "slug": "luvwlogiinfocard",
+        "title": "LUVWLogiInfocard.png"
+      },
+      {
+        "rel": "vehicleinfo/luvwm2infocard.png",
+        "slug": "luvwm2infocard",
+        "title": "LUVWM2Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/luvwtransinfocard.png",
+        "slug": "luvwtransinfocard",
+        "title": "LUVWTransInfocard.png"
+      },
+      {
+        "rel": "vehicleinfo/logistics_technical_statistics.jpg",
+        "slug": "logistics_technical_statistics",
+        "title": "Logistics Technical Statistics.jpg"
+      },
+      {
+        "rel": "vehicleinfo/m_atv_mrap_crows_statistic.jpg",
+        "slug": "m_atv_mrap_crows_statistic",
+        "title": "M-ATV MRAP CROWS Statistic.jpg"
+      },
+      {
+        "rel": "vehicleinfo/m_atv_mrap_statistic.jpg",
+        "slug": "m_atv_mrap_statistic",
+        "title": "M-ATV MRAP Statistic.jpg"
+      },
+      {
+        "rel": "vehicleinfo/m113a3c6infocard.png",
+        "slug": "m113a3c6infocard",
+        "title": "M113A3C6Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/m113a3m2infocard.png",
+        "slug": "m113a3m2infocard",
+        "title": "M113A3M2Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/m1151infocard.png",
+        "slug": "m1151infocard",
+        "title": "M1151Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/m1a1infocard.png",
+        "slug": "m1a1infocard",
+        "title": "M1A1Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/m1a1usmcinfocard.png",
+        "slug": "m1a1usmcinfocard",
+        "title": "M1A1USMCInfocard.png"
+      },
+      {
+        "rel": "vehicleinfo/m60t_infocard.png",
+        "slug": "m60t_infocard",
+        "title": "M60T Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/m939_logistics_truck_statistics.jpg",
+        "slug": "m939_logistics_truck_statistics",
+        "title": "M939 Logistics Truck Statistics.jpg"
+      },
+      {
+        "rel": "vehicleinfo/m939_truck_updated_statistics.jpg",
+        "slug": "m939_truck_updated_statistics",
+        "title": "M939 Truck Updated Statistics.jpg"
+      },
+      {
+        "rel": "vehicleinfo/man_hx_logistics_infosheet.png",
+        "slug": "man_hx_logistics_infosheet",
+        "title": "MAN HX Logistics Infosheet.png"
+      },
+      {
+        "rel": "vehicleinfo/man_hx_transport_infosheet.png",
+        "slug": "man_hx_transport_infosheet",
+        "title": "MAN HX Transport Infosheet.png"
+      },
+      {
+        "rel": "vehicleinfo/matv_tow_infocard.png",
+        "slug": "matv_tow_infocard",
+        "title": "MATV TOW infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/mi_17_infocard.jpg",
+        "slug": "mi_17_infocard",
+        "title": "MI-17 Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/mi_8_infocard.jpg",
+        "slug": "mi_8_infocard",
+        "title": "MI-8 Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/mi_8vdv_infocard.png",
+        "slug": "mi_8vdv_infocard",
+        "title": "MI-8VDV Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/mrh90infocard.jpg",
+        "slug": "mrh90infocard",
+        "title": "MRH90Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/msvs_logistics_infocard.jpg",
+        "slug": "msvs_logistics_infocard",
+        "title": "MSVS Logistics Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/msvs_transport_infocard.jpg",
+        "slug": "msvs_transport_infocard",
+        "title": "MSVS Transport Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/mt_lb_apc_statistics.jpg",
+        "slug": "mt_lb_apc_statistics",
+        "title": "MT-LB APC Statistics.jpg"
+      },
+      {
+        "rel": "vehicleinfo/mt_lb_nsvt.png",
+        "slug": "mt_lb_nsvt",
+        "title": "MT-LB NSVT.png"
+      },
+      {
+        "rel": "vehicleinfo/mt_lbm_6m_apc_with_nsvt_statistic.jpg",
+        "slug": "mt_lbm_6m_apc_with_nsvt_statistic",
+        "title": "MT-LBM 6M APC with NSVT Statistic.jpg"
+      },
+      {
+        "rel": "vehicleinfo/mt_lbm_6mb_ifv_statistic.jpg",
+        "slug": "mt_lbm_6mb_ifv_statistic",
+        "title": "MT-LBM 6MB IFV Statistic.jpg"
+      },
+      {
+        "rel": "vehicleinfo/mt_lbm_6mb_statistics.png",
+        "slug": "mt_lbm_6mb_statistics",
+        "title": "MT-LBM 6MB Statistics.png"
+      },
+      {
+        "rel": "vehicleinfo/mt_lmb_with_kpvt_statistic.jpg",
+        "slug": "mt_lmb_with_kpvt_statistic",
+        "title": "MT-LMB with KPVT Statistic.jpg"
+      },
+      {
+        "rel": "vehicleinfo/mtlb_6ma_infocard.jpg",
+        "slug": "mtlb_6ma_infocard",
+        "title": "MTLB 6MA Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/mtlb_6mb_infocard.jpg",
+        "slug": "mtlb_6mb_infocard",
+        "title": "MTLB 6MB Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/mtlb_vmk_infocarfd.jpg",
+        "slug": "mtlb_vmk_infocarfd",
+        "title": "MTLB VMK Infocarfd.jpg"
+      },
+      {
+        "rel": "vehicleinfo/mtlb_zsu23_2_infosheet.png",
+        "slug": "mtlb_zsu23_2_infosheet",
+        "title": "MTLB ZSU23 2 Infosheet.png"
+      },
+      {
+        "rel": "vehicleinfo/mtlbmmeainfocard.jpg",
+        "slug": "mtlbmmeainfocard",
+        "title": "MTLBMMEAInfocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/minsk_400_statistics.jpg",
+        "slug": "minsk_400_statistics",
+        "title": "Minsk 400 Statistics.jpg"
+      },
+      {
+        "rel": "vehicleinfo/pmv3infocard.png",
+        "slug": "pmv3infocard",
+        "title": "PMV3Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/pmvinfocard.png",
+        "slug": "pmvinfocard",
+        "title": "PMVInfocard.png"
+      },
+      {
+        "rel": "vehicleinfo/pmvrwsinfocard.png",
+        "slug": "pmvrwsinfocard",
+        "title": "PMVRWSInfocard.png"
+      },
+      {
+        "rel": "vehicleinfo/pickup_truck_logistics_infocard.png",
+        "slug": "pickup_truck_logistics_infocard",
+        "title": "Pickup Truck Logistics Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/pickup_truck_transport_infocard.png",
+        "slug": "pickup_truck_transport_infocard",
+        "title": "Pickup Truck Transport Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/rhib_logisticsinfocard.jpg",
+        "slug": "rhib_logisticsinfocard",
+        "title": "RHIB Logisticsinfocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/rhib_transportinfocard.jpg",
+        "slug": "rhib_transportinfocard",
+        "title": "RHIB Transportinfocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/sa330_infocard.png",
+        "slug": "sa330_infocard",
+        "title": "SA330 Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/simir_kord_infocard.jpg",
+        "slug": "simir_kord_infocard",
+        "title": "Simir Kord Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/simir_kornet_infocard.jpg",
+        "slug": "simir_kornet_infocard",
+        "title": "Simir Kornet Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/simir_logistics_infocard.jpg",
+        "slug": "simir_logistics_infocard",
+        "title": "Simir Logistics Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/simir_mg_3_infocard.jpg",
+        "slug": "simir_mg_3_infocard",
+        "title": "Simir MG-3 Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/t_62_statistics.jpg",
+        "slug": "t_62_statistics",
+        "title": "T-62 Statistics.jpg"
+      },
+      {
+        "rel": "vehicleinfo/t_72b3_statistics.jpg",
+        "slug": "t_72b3_statistics",
+        "title": "T-72B3 Statistics.jpg"
+      },
+      {
+        "rel": "vehicleinfo/t_72s_infocard.jpg",
+        "slug": "t_72s_infocard",
+        "title": "T-72S Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/tapv_infocard.jpg",
+        "slug": "tapv_infocard",
+        "title": "TAPV Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/tlavinfocard.png",
+        "slug": "tlavinfocard",
+        "title": "TLAVInfocard.png"
+      },
+      {
+        "rel": "vehicleinfo/technical_armed_statistics.jpg",
+        "slug": "technical_armed_statistics",
+        "title": "Technical Armed Statistics.jpg"
+      },
+      {
+        "rel": "vehicleinfo/technical_bmp_1_infocard.png",
+        "slug": "technical_bmp_1_infocard",
+        "title": "Technical BMP-1 Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/technical_dshk_infocard.png",
+        "slug": "technical_dshk_infocard",
+        "title": "Technical Dshk Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/technical_logistics_insurgents_statistics.jpg",
+        "slug": "technical_logistics_insurgents_statistics",
+        "title": "Technical Logistics Insurgents Statistics.jpg"
+      },
+      {
+        "rel": "vehicleinfo/technical_logistics_militia_statistics.jpg",
+        "slug": "technical_logistics_militia_statistics",
+        "title": "Technical Logistics Militia Statistics.jpg"
+      },
+      {
+        "rel": "vehicleinfo/technical_m2_infocard.png",
+        "slug": "technical_m2_infocard",
+        "title": "Technical M2 Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/technical_mortar_infocard.png",
+        "slug": "technical_mortar_infocard",
+        "title": "Technical Mortar Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/technical_rocket_artillery_statistics.jpg",
+        "slug": "technical_rocket_artillery_statistics",
+        "title": "Technical Rocket Artillery Statistics.jpg"
+      },
+      {
+        "rel": "vehicleinfo/technical_spg_9_infocard.png",
+        "slug": "technical_spg_9_infocard",
+        "title": "Technical SPG-9 Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/technical_spg_9_recoilless_gun_statistics.jpg",
+        "slug": "technical_spg_9_recoilless_gun_statistics",
+        "title": "Technical SPG-9 Recoilless Gun Statistics.jpg"
+      },
+      {
+        "rel": "vehicleinfo/technical_ub_32_infocard.png",
+        "slug": "technical_ub_32_infocard",
+        "title": "Technical UB-32 Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/technical_zu_23_infocard.png",
+        "slug": "technical_zu_23_infocard",
+        "title": "Technical ZU-23 Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/tigr_infocard.jpg",
+        "slug": "tigr_infocard",
+        "title": "Tigr Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/tigr_rws_infocard.jpg",
+        "slug": "tigr_rws_infocard",
+        "title": "Tigr RWS Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/transport_technical_statistics.jpg",
+        "slug": "transport_technical_statistics",
+        "title": "Transport Technical Statistics.jpg"
+      },
+      {
+        "rel": "vehicleinfo/uh_1h_infocard.png",
+        "slug": "uh_1h_infocard",
+        "title": "UH-1H Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/uh_1y_cas_infocard.png",
+        "slug": "uh_1y_cas_infocard",
+        "title": "UH-1Y CAS infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/uh_1y_infocard.png",
+        "slug": "uh_1y_infocard",
+        "title": "UH-1Y infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/uh_60m_infocard.jpg",
+        "slug": "uh_60m_infocard",
+        "title": "UH-60M Infocard.jpg"
+      },
+      {
+        "rel": "vehicleinfo/uh60aus.png",
+        "slug": "uh60aus",
+        "title": "UH60AUS.png"
+      },
+      {
+        "rel": "vehicleinfo/ural_375d_logistics_statistics.jpg",
+        "slug": "ural_375d_logistics_statistics",
+        "title": "Ural 375D Logistics Statistics.jpg"
+      },
+      {
+        "rel": "vehicleinfo/ural_375d_transport_statistics.jpg",
+        "slug": "ural_375d_transport_statistics",
+        "title": "Ural 375D Transport Statistics.jpg"
+      },
+      {
+        "rel": "vehicleinfo/ural_375d_zsu23_2_infosheet.png",
+        "slug": "ural_375d_zsu23_2_infosheet",
+        "title": "Ural 375D ZSU23 2 Infosheet.png"
+      },
+      {
+        "rel": "vehicleinfo/ural_4320_truck_logistics_statistic.jpg",
+        "slug": "ural_4320_truck_logistics_statistic",
+        "title": "Ural 4320 Truck Logistics Statistic.jpg"
+      },
+      {
+        "rel": "vehicleinfo/ural_4320_truck_transport_statistic.jpg",
+        "slug": "ural_4320_truck_transport_statistic",
+        "title": "Ural 4320 Truck Transport Statistic.jpg"
+      },
+      {
+        "rel": "vehicleinfo/vehiclesheet_m1126.jpg",
+        "slug": "vehiclesheet_m1126",
+        "title": "VehicleSheet M1126.jpg"
+      },
+      {
+        "rel": "vehicleinfo/vehiclesheet_m2a3.jpg",
+        "slug": "vehiclesheet_m2a3",
+        "title": "VehicleSheet M2A3.jpg"
+      },
+      {
+        "rel": "vehicleinfo/vehiclesheets_fv4034.jpg",
+        "slug": "vehiclesheets_fv4034",
+        "title": "VehicleSheets FV4034.jpg"
+      },
+      {
+        "rel": "vehicleinfo/vehiclesheets_fv432.jpg",
+        "slug": "vehiclesheets_fv432",
+        "title": "VehicleSheets FV432.jpg"
+      },
+      {
+        "rel": "vehicleinfo/vehiclesheets_fv510.jpg",
+        "slug": "vehiclesheets_fv510",
+        "title": "VehicleSheets FV510.jpg"
+      },
+      {
+        "rel": "vehicleinfo/vehiclesheets_m1a2.jpg",
+        "slug": "vehiclesheets_m1a2",
+        "title": "VehicleSheets M1A2.jpg"
+      },
+      {
+        "rel": "vehicleinfo/vicinfosheet_bmp_2.png",
+        "slug": "vicinfosheet_bmp_2",
+        "title": "Vicinfosheet-BMP-2.png"
+      },
+      {
+        "rel": "vehicleinfo/z_8g_infocard.png",
+        "slug": "z_8g_infocard",
+        "title": "Z-8G Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/z_8j_infocard.png",
+        "slug": "z_8j_infocard",
+        "title": "Z-8J Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/zbd04a_infocard.png",
+        "slug": "zbd04a_infocard",
+        "title": "ZBD04A Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/zbd05_hj73c_infocard.png",
+        "slug": "zbd05_hj73c_infocard",
+        "title": "ZBD05 HJ73C Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/zbd05_infocard.png",
+        "slug": "zbd05_infocard",
+        "title": "ZBD05 Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/zbl08_hj73c_infocard.png",
+        "slug": "zbl08_hj73c_infocard",
+        "title": "ZBL08 HJ73C Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/zbl08_hj73c_pla_infocard.png",
+        "slug": "zbl08_hj73c_pla_infocard",
+        "title": "ZBL08 HJ73C PLA Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/zbl08_infocard.png",
+        "slug": "zbl08_infocard",
+        "title": "ZBL08 Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/zbl08_pla_infocard.png",
+        "slug": "zbl08_pla_infocard",
+        "title": "ZBL08 PLA Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/zsd05_infocard.png",
+        "slug": "zsd05_infocard",
+        "title": "ZSD05 Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/zsd05_qjz89_pla_infocard.png",
+        "slug": "zsd05_qjz89_pla_infocard",
+        "title": "ZSD05 QJZ89 PLA Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/zsd05_qjz89_planmc_infocard.png",
+        "slug": "zsd05_qjz89_planmc_infocard",
+        "title": "ZSD05 QJZ89 PLANMC Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/zsl10_pla_infocard.png",
+        "slug": "zsl10_pla_infocard",
+        "title": "ZSL10 PLA Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/zsl10_planmc_infocard.png",
+        "slug": "zsl10_planmc_infocard",
+        "title": "ZSL10 PLANMC Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/ztd05_infocard.png",
+        "slug": "ztd05_infocard",
+        "title": "ZTD05 Infocard.png"
+      },
+      {
+        "rel": "vehicleinfo/ztz99a_infocard.png",
+        "slug": "ztz99a_infocard",
+        "title": "ZTZ99A Infocard.png"
       }
     ],
     "vehicles": [
@@ -2164,7 +3434,7 @@
       }
     ]
   },
-  "generated_at": "2026-05-27T05:18:30.325959+00:00",
+  "generated_at": "2026-05-27T07:22:56.816771+00:00",
   "license": "CC-BY-SA 3.0",
   "schema": 1,
   "source": "squad-fandom-wiki",
