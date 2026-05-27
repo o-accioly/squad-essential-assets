@@ -1,0 +1,2172 @@
+{
+  "buckets": {
+    "mapicons": [
+      {
+        "rel": "mapicons/03_03_03_gamemode_injurcency_cache_defend.jpg",
+        "slug": "03_03_03_gamemode_injurcency_cache_defend",
+        "title": "03 03 03 GameMode Injurcency cache defend.jpg"
+      },
+      {
+        "rel": "mapicons/03_03_03_gamemode_injurcency_cache_destroyed.jpg",
+        "slug": "03_03_03_gamemode_injurcency_cache_destroyed",
+        "title": "03 03 03 GameMode Injurcency cache destroyed.jpg"
+      },
+      {
+        "rel": "mapicons/03_03_03_gamemode_injurcency_cache_intell.jpg",
+        "slug": "03_03_03_gamemode_injurcency_cache_intell",
+        "title": "03 03 03 GameMode Injurcency cache intell.jpg"
+      },
+      {
+        "rel": "mapicons/03_03_03_gamemode_injurcency_cache_spawned.jpg",
+        "slug": "03_03_03_gamemode_injurcency_cache_spawned",
+        "title": "03 03 03 GameMode Injurcency cache spawned.jpg"
+      },
+      {
+        "rel": "mapicons/deployable_hab.png",
+        "slug": "deployable_hab",
+        "title": "Deployable hab.png"
+      },
+      {
+        "rel": "mapicons/deployable_repairstation.png",
+        "slug": "deployable_repairstation",
+        "title": "Deployable repairstation.png"
+      },
+      {
+        "rel": "mapicons/fob_range_marker1.jpg",
+        "slug": "fob_range_marker1",
+        "title": "Fob range marker1.jpg"
+      },
+      {
+        "rel": "mapicons/map_attack_defend.png",
+        "slug": "map_attack_defend",
+        "title": "Map attack defend.png"
+      },
+      {
+        "rel": "mapicons/map_base.png",
+        "slug": "map_base",
+        "title": "Map base.png"
+      },
+      {
+        "rel": "mapicons/map_flags.png",
+        "slug": "map_flags",
+        "title": "Map flags.png"
+      },
+      {
+        "rel": "mapicons/map_fob.png",
+        "slug": "map_fob",
+        "title": "Map fob.png"
+      },
+      {
+        "rel": "mapicons/map_icon_ammo.png",
+        "slug": "map_icon_ammo",
+        "title": "Map icon ammo.png"
+      },
+      {
+        "rel": "mapicons/map_icon_fob_inactive.png",
+        "slug": "map_icon_fob_inactive",
+        "title": "Map icon fob inactive.png"
+      },
+      {
+        "rel": "mapicons/map_icon_grunt.png",
+        "slug": "map_icon_grunt",
+        "title": "Map icon grunt.png"
+      },
+      {
+        "rel": "mapicons/map_icon_medic.png",
+        "slug": "map_icon_medic",
+        "title": "Map icon medic.png"
+      },
+      {
+        "rel": "mapicons/map_icon_rp.png",
+        "slug": "map_icon_rp",
+        "title": "Map icon rp.png"
+      },
+      {
+        "rel": "mapicons/map_icon_self.png",
+        "slug": "map_icon_self",
+        "title": "Map icon self.png"
+      },
+      {
+        "rel": "mapicons/map_icon_sqdldr.png",
+        "slug": "map_icon_sqdldr",
+        "title": "Map icon sqdldr.png"
+      },
+      {
+        "rel": "mapicons/map_rp.png",
+        "slug": "map_rp",
+        "title": "Map rp.png"
+      },
+      {
+        "rel": "mapicons/map_spawn.png",
+        "slug": "map_spawn",
+        "title": "Map spawn.png"
+      },
+      {
+        "rel": "mapicons/map_squads_sample.png",
+        "slug": "map_squads_sample",
+        "title": "Map squads sample.png"
+      },
+      {
+        "rel": "mapicons/sl_map_1.jpg",
+        "slug": "sl_map_1",
+        "title": "SL map 1.jpg"
+      },
+      {
+        "rel": "mapicons/sl_map_2.jpg",
+        "slug": "sl_map_2",
+        "title": "SL map 2.jpg"
+      },
+      {
+        "rel": "mapicons/sl_map_3.jpg",
+        "slug": "sl_map_3",
+        "title": "SL map 3.jpg"
+      },
+      {
+        "rel": "mapicons/sl_map_4.jpg",
+        "slug": "sl_map_4",
+        "title": "SL map 4.jpg"
+      },
+      {
+        "rel": "mapicons/sl_map_5.jpg",
+        "slug": "sl_map_5",
+        "title": "SL map 5.jpg"
+      },
+      {
+        "rel": "mapicons/sl_map_6.jpg",
+        "slug": "sl_map_6",
+        "title": "SL map 6.jpg"
+      },
+      {
+        "rel": "mapicons/sl_map_7.jpg",
+        "slug": "sl_map_7",
+        "title": "SL map 7.jpg"
+      },
+      {
+        "rel": "mapicons/sl_map_8.jpg",
+        "slug": "sl_map_8",
+        "title": "SL map 8.jpg"
+      }
+    ],
+    "roles": [
+      {
+        "rel": "roles/command_support.png",
+        "slug": "command_support",
+        "title": "Command Support.png"
+      },
+      {
+        "rel": "roles/fire_support.png",
+        "slug": "fire_support",
+        "title": "Fire Support.png"
+      },
+      {
+        "rel": "roles/role_automatic_rifleman.png",
+        "slug": "role_automatic_rifleman",
+        "title": "Role automatic rifleman.png"
+      },
+      {
+        "rel": "roles/role_crewman.png",
+        "slug": "role_crewman",
+        "title": "Role crewman.png"
+      },
+      {
+        "rel": "roles/role_engineer.png",
+        "slug": "role_engineer",
+        "title": "Role engineer.png"
+      },
+      {
+        "rel": "roles/role_grenadier.png",
+        "slug": "role_grenadier",
+        "title": "Role grenadier.png"
+      },
+      {
+        "rel": "roles/role_heavyantitank.png",
+        "slug": "role_heavyantitank",
+        "title": "Role heavyantitank.png"
+      },
+      {
+        "rel": "roles/role_lead_crewman.png",
+        "slug": "role_lead_crewman",
+        "title": "Role lead crewman.png"
+      },
+      {
+        "rel": "roles/role_lead_pilot.png",
+        "slug": "role_lead_pilot",
+        "title": "Role lead pilot.png"
+      },
+      {
+        "rel": "roles/role_lightantitank.png",
+        "slug": "role_lightantitank",
+        "title": "Role lightantitank.png"
+      },
+      {
+        "rel": "roles/role_machinegunner.png",
+        "slug": "role_machinegunner",
+        "title": "Role machinegunner.png"
+      },
+      {
+        "rel": "roles/role_marksman.png",
+        "slug": "role_marksman",
+        "title": "Role marksman.png"
+      },
+      {
+        "rel": "roles/role_medic.png",
+        "slug": "role_medic",
+        "title": "Role medic.png"
+      },
+      {
+        "rel": "roles/role_pilot.png",
+        "slug": "role_pilot",
+        "title": "Role pilot.png"
+      },
+      {
+        "rel": "roles/role_raider.png",
+        "slug": "role_raider",
+        "title": "Role raider.png"
+      },
+      {
+        "rel": "roles/role_recruit.png",
+        "slug": "role_recruit",
+        "title": "Role recruit.png"
+      },
+      {
+        "rel": "roles/role_rifleman.png",
+        "slug": "role_rifleman",
+        "title": "Role rifleman.png"
+      },
+      {
+        "rel": "roles/role_sapper.png",
+        "slug": "role_sapper",
+        "title": "Role sapper.png"
+      },
+      {
+        "rel": "roles/role_scout.png",
+        "slug": "role_scout",
+        "title": "Role scout.png"
+      },
+      {
+        "rel": "roles/role_sniper.png",
+        "slug": "role_sniper",
+        "title": "Role sniper.png"
+      },
+      {
+        "rel": "roles/role_squad_leader.png",
+        "slug": "role_squad_leader",
+        "title": "Role squad leader.png"
+      },
+      {
+        "rel": "roles/specialist.png",
+        "slug": "specialist",
+        "title": "Specialist.png"
+      },
+      {
+        "rel": "roles/squad_roles.png",
+        "slug": "squad_roles",
+        "title": "Squad Roles.png"
+      }
+    ],
+    "vehicles": [
+      {
+        "rel": "vehicles/antiair_vehicle_icon.png",
+        "slug": "antiair_vehicle_icon",
+        "title": "Antiair vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/apc_vehicle_icon.png",
+        "slug": "apc_vehicle_icon",
+        "title": "Apc vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/attackhelo_vehicle_icon.png",
+        "slug": "attackhelo_vehicle_icon",
+        "title": "Attackhelo vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/boat_vehicle_icon.png",
+        "slug": "boat_vehicle_icon",
+        "title": "Boat vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/handhelddrone_vehicle_icon.png",
+        "slug": "handhelddrone_vehicle_icon",
+        "title": "Handhelddrone vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/ifv_vehicle_icon.png",
+        "slug": "ifv_vehicle_icon",
+        "title": "Ifv vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/jeep_artillery_vehicle_icon.png",
+        "slug": "jeep_artillery_vehicle_icon",
+        "title": "Jeep artillery vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/jeep_logistics_vehicle_icon.png",
+        "slug": "jeep_logistics_vehicle_icon",
+        "title": "Jeep logistics vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/jeep_transport_vehicle_icon.png",
+        "slug": "jeep_transport_vehicle_icon",
+        "title": "Jeep transport vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/jeep_turret_vehicle_icon.png",
+        "slug": "jeep_turret_vehicle_icon",
+        "title": "Jeep turret vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/jeep_vehicle_icon.png",
+        "slug": "jeep_vehicle_icon",
+        "title": "Jeep vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/jet_a10_vehicle_icon.png",
+        "slug": "jet_a10_vehicle_icon",
+        "title": "Jet a10 vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/jet_su25_vehicle_icon.png",
+        "slug": "jet_su25_vehicle_icon",
+        "title": "Jet su25 vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/jet_tornado_vehicle_icon.png",
+        "slug": "jet_tornado_vehicle_icon",
+        "title": "Jet tornado vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/motorcycle_vehicle_icon.png",
+        "slug": "motorcycle_vehicle_icon",
+        "title": "Motorcycle vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/tank_vehicle_icon.png",
+        "slug": "tank_vehicle_icon",
+        "title": "Tank vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/trackedapc_vehicle_icon.png",
+        "slug": "trackedapc_vehicle_icon",
+        "title": "Trackedapc vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/trackedifv_vehicle_icon.png",
+        "slug": "trackedifv_vehicle_icon",
+        "title": "Trackedifv vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/trackedjeep_vehicle_icon.png",
+        "slug": "trackedjeep_vehicle_icon",
+        "title": "Trackedjeep vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/transporthelo_vehicle_icon.png",
+        "slug": "transporthelo_vehicle_icon",
+        "title": "Transporthelo vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/truck_antiair_vehicle_icon.png",
+        "slug": "truck_antiair_vehicle_icon",
+        "title": "Truck antiair vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/truck_logistics_vehicle_icon.png",
+        "slug": "truck_logistics_vehicle_icon",
+        "title": "Truck logistics vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/truck_transport_vehicle_icon.png",
+        "slug": "truck_transport_vehicle_icon",
+        "title": "Truck transport vehicle icon.png"
+      },
+      {
+        "rel": "vehicles/uav_vehicle_icon.png",
+        "slug": "uav_vehicle_icon",
+        "title": "Uav vehicle icon.png"
+      }
+    ],
+    "weapons": [
+      {
+        "rel": "weapons/14_5mm_ap.png",
+        "slug": "14_5mm_ap",
+        "title": "14 5mm ap.png"
+      },
+      {
+        "rel": "weapons/40mmhedp.png",
+        "slug": "40mmhedp",
+        "title": "40mmhedp.png"
+      },
+      {
+        "rel": "weapons/81mm_mortar_he.png",
+        "slug": "81mm_mortar_he",
+        "title": "81mm mortar he.png"
+      },
+      {
+        "rel": "weapons/81mm_mortar_smoke.png",
+        "slug": "81mm_mortar_smoke",
+        "title": "81mm mortar smoke.png"
+      },
+      {
+        "rel": "weapons/ak101_ironsights_foregrip.png",
+        "slug": "ak101_ironsights_foregrip",
+        "title": "AK101 Ironsights Foregrip.png"
+      },
+      {
+        "rel": "weapons/ak101_m150_foregrip.png",
+        "slug": "ak101_m150_foregrip",
+        "title": "AK101 M150 Foregrip.png"
+      },
+      {
+        "rel": "weapons/ak101_t800_foregrip.png",
+        "slug": "ak101_t800_foregrip",
+        "title": "AK101 T800 Foregrip.png"
+      },
+      {
+        "rel": "weapons/at_4.png",
+        "slug": "at_4",
+        "title": "AT-4.png"
+      },
+      {
+        "rel": "weapons/ag36_gl.png",
+        "slug": "ag36_gl",
+        "title": "Ag36 gl.png"
+      },
+      {
+        "rel": "weapons/ak101_hna.png",
+        "slug": "ak101_hna",
+        "title": "Ak101 hna.png"
+      },
+      {
+        "rel": "weapons/ak12_1p78.png",
+        "slug": "ak12_1p78",
+        "title": "Ak12 1p78.png"
+      },
+      {
+        "rel": "weapons/ak12_foregrip_1p78.png",
+        "slug": "ak12_foregrip_1p78",
+        "title": "Ak12 foregrip 1p78.png"
+      },
+      {
+        "rel": "weapons/ak12_foregrip_reddot.png",
+        "slug": "ak12_foregrip_reddot",
+        "title": "Ak12 foregrip reddot.png"
+      },
+      {
+        "rel": "weapons/ak12_foregrip.png",
+        "slug": "ak12_foregrip",
+        "title": "Ak12 foregrip.png"
+      },
+      {
+        "rel": "weapons/ak12_reddot.png",
+        "slug": "ak12_reddot",
+        "title": "Ak12 reddot.png"
+      },
+      {
+        "rel": "weapons/ak12.png",
+        "slug": "ak12",
+        "title": "Ak12.png"
+      },
+      {
+        "rel": "weapons/ak12gp25_1p78.png",
+        "slug": "ak12gp25_1p78",
+        "title": "Ak12gp25 1p78.png"
+      },
+      {
+        "rel": "weapons/ak12gp25_reddot.png",
+        "slug": "ak12gp25_reddot",
+        "title": "Ak12gp25 reddot.png"
+      },
+      {
+        "rel": "weapons/ak12gp25.png",
+        "slug": "ak12gp25",
+        "title": "Ak12gp25.png"
+      },
+      {
+        "rel": "weapons/ak40gl_bluesmoke.png",
+        "slug": "ak40gl_bluesmoke",
+        "title": "Ak40gl bluesmoke.png"
+      },
+      {
+        "rel": "weapons/ak40gl_he.png",
+        "slug": "ak40gl_he",
+        "title": "Ak40gl he.png"
+      },
+      {
+        "rel": "weapons/ak40gl_redsmoke.png",
+        "slug": "ak40gl_redsmoke",
+        "title": "Ak40gl redsmoke.png"
+      },
+      {
+        "rel": "weapons/ak40gl_whitesmoke.png",
+        "slug": "ak40gl_whitesmoke",
+        "title": "Ak40gl whitesmoke.png"
+      },
+      {
+        "rel": "weapons/ak74_bayonet.png",
+        "slug": "ak74_bayonet",
+        "title": "Ak74 bayonet.png"
+      },
+      {
+        "rel": "weapons/ak74.png",
+        "slug": "ak74",
+        "title": "Ak74.png"
+      },
+      {
+        "rel": "weapons/ak74gp25_1p63.png",
+        "slug": "ak74gp25_1p63",
+        "title": "Ak74gp25 1p63.png"
+      },
+      {
+        "rel": "weapons/ak74gp25_1p78.png",
+        "slug": "ak74gp25_1p78",
+        "title": "Ak74gp25 1p78.png"
+      },
+      {
+        "rel": "weapons/ak74gp25.png",
+        "slug": "ak74gp25",
+        "title": "Ak74gp25.png"
+      },
+      {
+        "rel": "weapons/ak74m_1p63.png",
+        "slug": "ak74m_1p63",
+        "title": "Ak74m 1p63.png"
+      },
+      {
+        "rel": "weapons/ak74m_1p78.png",
+        "slug": "ak74m_1p78",
+        "title": "Ak74m 1p78.png"
+      },
+      {
+        "rel": "weapons/ak74m.png",
+        "slug": "ak74m",
+        "title": "Ak74m.png"
+      },
+      {
+        "rel": "weapons/ak74mgp25_1p63.png",
+        "slug": "ak74mgp25_1p63",
+        "title": "Ak74mgp25 1p63.png"
+      },
+      {
+        "rel": "weapons/ak74mgp25_1p78.png",
+        "slug": "ak74mgp25_1p78",
+        "title": "Ak74mgp25 1p78.png"
+      },
+      {
+        "rel": "weapons/ak74mgp25.png",
+        "slug": "ak74mgp25",
+        "title": "Ak74mgp25.png"
+      },
+      {
+        "rel": "weapons/akm_bayonet.png",
+        "slug": "akm_bayonet",
+        "title": "Akm bayonet.png"
+      },
+      {
+        "rel": "weapons/akm_drummag.png",
+        "slug": "akm_drummag",
+        "title": "Akm drummag.png"
+      },
+      {
+        "rel": "weapons/akm.png",
+        "slug": "akm",
+        "title": "Akm.png"
+      },
+      {
+        "rel": "weapons/akms.png",
+        "slug": "akms",
+        "title": "Akms.png"
+      },
+      {
+        "rel": "weapons/aks74_1p29.png",
+        "slug": "aks74_1p29",
+        "title": "Aks74 1p29.png"
+      },
+      {
+        "rel": "weapons/aks74_1p63.png",
+        "slug": "aks74_1p63",
+        "title": "Aks74 1p63.png"
+      },
+      {
+        "rel": "weapons/aks74.png",
+        "slug": "aks74",
+        "title": "Aks74.png"
+      },
+      {
+        "rel": "weapons/aks74m_1p78.png",
+        "slug": "aks74m_1p78",
+        "title": "Aks74m 1p78.png"
+      },
+      {
+        "rel": "weapons/aks74m.png",
+        "slug": "aks74m",
+        "title": "Aks74m.png"
+      },
+      {
+        "rel": "weapons/aks74u_45rnd.png",
+        "slug": "aks74u_45rnd",
+        "title": "Aks74u 45rnd.png"
+      },
+      {
+        "rel": "weapons/aks74u.png",
+        "slug": "aks74u",
+        "title": "Aks74u.png"
+      },
+      {
+        "rel": "weapons/amd65.png",
+        "slug": "amd65",
+        "title": "Amd65.png"
+      },
+      {
+        "rel": "weapons/ammobag.png",
+        "slug": "ammobag",
+        "title": "Ammobag.png"
+      },
+      {
+        "rel": "weapons/asval_okp7.png",
+        "slug": "asval_okp7",
+        "title": "Asval okp7.png"
+      },
+      {
+        "rel": "weapons/asval_optic.png",
+        "slug": "asval_optic",
+        "title": "Asval optic.png"
+      },
+      {
+        "rel": "weapons/asval.png",
+        "slug": "asval",
+        "title": "Asval.png"
+      },
+      {
+        "rel": "weapons/ausf1frag.png",
+        "slug": "ausf1frag",
+        "title": "Ausf1frag.png"
+      },
+      {
+        "rel": "weapons/bgm71_tow_projectile.png",
+        "slug": "bgm71_tow_projectile",
+        "title": "Bgm71 tow projectile.png"
+      },
+      {
+        "rel": "weapons/browning_hipower.png",
+        "slug": "browning_hipower",
+        "title": "Browning HiPower.png"
+      },
+      {
+        "rel": "weapons/browninghp_caf.png",
+        "slug": "browninghp_caf",
+        "title": "BrowningHP CAF.png"
+      },
+      {
+        "rel": "weapons/browninghp.png",
+        "slug": "browninghp",
+        "title": "Browninghp.png"
+      },
+      {
+        "rel": "weapons/c14_bipod_up.png",
+        "slug": "c14_bipod_up",
+        "title": "C14 bipod up.png"
+      },
+      {
+        "rel": "weapons/c14.png",
+        "slug": "c14",
+        "title": "C14.png"
+      },
+      {
+        "rel": "weapons/c6a1.png",
+        "slug": "c6a1",
+        "title": "C6A1.png"
+      },
+      {
+        "rel": "weapons/c7a2_c79a2_m203a1.png",
+        "slug": "c7a2_c79a2_m203a1",
+        "title": "C7A2 c79a2 m203a1.png"
+      },
+      {
+        "rel": "weapons/c7a2_eotech_m203a1.png",
+        "slug": "c7a2_eotech_m203a1",
+        "title": "C7A2 eotech m203a1.png"
+      },
+      {
+        "rel": "weapons/c7a2_c79a2_foregrip.png",
+        "slug": "c7a2_c79a2_foregrip",
+        "title": "C7a2 c79a2 foregrip.png"
+      },
+      {
+        "rel": "weapons/c7a2_eotech_foregrip.png",
+        "slug": "c7a2_eotech_foregrip",
+        "title": "C7a2 eotech foregrip.png"
+      },
+      {
+        "rel": "weapons/c7a2_eotech.png",
+        "slug": "c7a2_eotech",
+        "title": "C7a2 eotech.png"
+      },
+      {
+        "rel": "weapons/c7a2_irons_foregrip.png",
+        "slug": "c7a2_irons_foregrip",
+        "title": "C7a2 irons foregrip.png"
+      },
+      {
+        "rel": "weapons/c7a2_irons.png",
+        "slug": "c7a2_irons",
+        "title": "C7a2 irons.png"
+      },
+      {
+        "rel": "weapons/c7a2_standard.png",
+        "slug": "c7a2_standard",
+        "title": "C7a2 standard.png"
+      },
+      {
+        "rel": "weapons/c8a3_eotech_foregrip.png",
+        "slug": "c8a3_eotech_foregrip",
+        "title": "C8A3 Eotech Foregrip.png"
+      },
+      {
+        "rel": "weapons/c8a3_ironsight_foregrip.png",
+        "slug": "c8a3_ironsight_foregrip",
+        "title": "C8A3 Ironsight Foregrip.png"
+      },
+      {
+        "rel": "weapons/c8a3_ironsight.png",
+        "slug": "c8a3_ironsight",
+        "title": "C8A3 Ironsight.png"
+      },
+      {
+        "rel": "weapons/c8a3c79a2.png",
+        "slug": "c8a3c79a2",
+        "title": "C8A3C79A2.png"
+      },
+      {
+        "rel": "weapons/c8a3eotech.png",
+        "slug": "c8a3eotech",
+        "title": "C8A3EoTech.png"
+      },
+      {
+        "rel": "weapons/c8a3m203c79a2.png",
+        "slug": "c8a3m203c79a2",
+        "title": "C8A3M203C79A2.png"
+      },
+      {
+        "rel": "weapons/c8a3m203eotech.png",
+        "slug": "c8a3m203eotech",
+        "title": "C8A3M203EoTech.png"
+      },
+      {
+        "rel": "weapons/c9a2_irons.png",
+        "slug": "c9a2_irons",
+        "title": "C9A2 Irons.png"
+      },
+      {
+        "rel": "weapons/c9a2.png",
+        "slug": "c9a2",
+        "title": "C9A2.png"
+      },
+      {
+        "rel": "weapons/c9a2_foregrip_irons.png",
+        "slug": "c9a2_foregrip_irons",
+        "title": "C9a2 foregrip irons.png"
+      },
+      {
+        "rel": "weapons/c9a2_foregrip.png",
+        "slug": "c9a2_foregrip",
+        "title": "C9a2 foregrip.png"
+      },
+      {
+        "rel": "weapons/compb.png",
+        "slug": "compb",
+        "title": "COMPB.png"
+      },
+      {
+        "rel": "weapons/camonet.png",
+        "slug": "camonet",
+        "title": "Camonet.png"
+      },
+      {
+        "rel": "weapons/carlgustav.png",
+        "slug": "carlgustav",
+        "title": "Carlgustav.png"
+      },
+      {
+        "rel": "weapons/carlgustavm2_no78mk1.png",
+        "slug": "carlgustavm2_no78mk1",
+        "title": "Carlgustavm2+no78mk1.png"
+      },
+      {
+        "rel": "weapons/carlgustavm2.png",
+        "slug": "carlgustavm2",
+        "title": "Carlgustavm2.png"
+      },
+      {
+        "rel": "weapons/coaxialmachinegun_m240c.png",
+        "slug": "coaxialmachinegun_m240c",
+        "title": "Coaxialmachinegun m240c.png"
+      },
+      {
+        "rel": "weapons/coaxialmachinegun_pkm.png",
+        "slug": "coaxialmachinegun_pkm",
+        "title": "Coaxialmachinegun pkm.png"
+      },
+      {
+        "rel": "weapons/dshk.png",
+        "slug": "dshk",
+        "title": "Dshk.png"
+      },
+      {
+        "rel": "weapons/dzj08.png",
+        "slug": "dzj08",
+        "title": "Dzj08.png"
+      },
+      {
+        "rel": "weapons/ef88_eotech_grippod.png",
+        "slug": "ef88_eotech_grippod",
+        "title": "EF88 Eotech Grippod.png"
+      },
+      {
+        "rel": "weapons/ef88_eotech.png",
+        "slug": "ef88_eotech",
+        "title": "EF88 Eotech.png"
+      },
+      {
+        "rel": "weapons/ef88_grippod.png",
+        "slug": "ef88_grippod",
+        "title": "EF88 Grippod.png"
+      },
+      {
+        "rel": "weapons/ef88_ironsight_grippod.png",
+        "slug": "ef88_ironsight_grippod",
+        "title": "EF88 IronSight Grippod.png"
+      },
+      {
+        "rel": "weapons/ef88_ironsight.png",
+        "slug": "ef88_ironsight",
+        "title": "EF88 IronSight.png"
+      },
+      {
+        "rel": "weapons/ef88_sl40.png",
+        "slug": "ef88_sl40",
+        "title": "EF88 SL40.png"
+      },
+      {
+        "rel": "weapons/ef88.png",
+        "slug": "ef88",
+        "title": "EF88.png"
+      },
+      {
+        "rel": "weapons/ef88c_ironsight.png",
+        "slug": "ef88c_ironsight",
+        "title": "EF88C IronSight.png"
+      },
+      {
+        "rel": "weapons/ef88c_specter.png",
+        "slug": "ef88c_specter",
+        "title": "EF88C Specter.png"
+      },
+      {
+        "rel": "weapons/f1.png",
+        "slug": "f1",
+        "title": "F1.png"
+      },
+      {
+        "rel": "weapons/f88.png",
+        "slug": "f88",
+        "title": "F88.png"
+      },
+      {
+        "rel": "weapons/f89_eotech.png",
+        "slug": "f89_eotech",
+        "title": "F89 eotech.png"
+      },
+      {
+        "rel": "weapons/f89_specter.png",
+        "slug": "f89_specter",
+        "title": "F89 specter.png"
+      },
+      {
+        "rel": "weapons/f89.png",
+        "slug": "f89",
+        "title": "F89.png"
+      },
+      {
+        "rel": "weapons/fnfal_gl_frag.png",
+        "slug": "fnfal_gl_frag",
+        "title": "FNFAL GL Frag.png"
+      },
+      {
+        "rel": "weapons/fnfal_gl_heat.png",
+        "slug": "fnfal_gl_heat",
+        "title": "FNFAL GL HEAT.png"
+      },
+      {
+        "rel": "weapons/fnmag.png",
+        "slug": "fnmag",
+        "title": "FNMAG.png"
+      },
+      {
+        "rel": "weapons/fielddressing_hud_icon.png",
+        "slug": "fielddressing_hud_icon",
+        "title": "Fielddressing HUD icon.png"
+      },
+      {
+        "rel": "weapons/fnfal.png",
+        "slug": "fnfal",
+        "title": "Fnfal.png"
+      },
+      {
+        "rel": "weapons/g17.png",
+        "slug": "g17",
+        "title": "G17.png"
+      },
+      {
+        "rel": "weapons/g3_bayonet.png",
+        "slug": "g3_bayonet",
+        "title": "G3 bayonet.png"
+      },
+      {
+        "rel": "weapons/g3a3_drum_zf1.png",
+        "slug": "g3a3_drum_zf1",
+        "title": "G3a3 drum zf1.png"
+      },
+      {
+        "rel": "weapons/g3a3_drum.png",
+        "slug": "g3a3_drum",
+        "title": "G3a3 drum.png"
+      },
+      {
+        "rel": "weapons/g3a3_foregrip.png",
+        "slug": "g3a3_foregrip",
+        "title": "G3a3 foregrip.png"
+      },
+      {
+        "rel": "weapons/g3a3_zf1.png",
+        "slug": "g3a3_zf1",
+        "title": "G3a3 zf1.png"
+      },
+      {
+        "rel": "weapons/g3a3_zpoint.png",
+        "slug": "g3a3_zpoint",
+        "title": "G3a3 zpoint.png"
+      },
+      {
+        "rel": "weapons/g3a3.png",
+        "slug": "g3a3",
+        "title": "G3a3.png"
+      },
+      {
+        "rel": "weapons/g3a3hk79_zf1.png",
+        "slug": "g3a3hk79_zf1",
+        "title": "G3a3hk79 zf1.png"
+      },
+      {
+        "rel": "weapons/g3a3hk79.png",
+        "slug": "g3a3hk79",
+        "title": "G3a3hk79.png"
+      },
+      {
+        "rel": "weapons/g3a4_foregrip_zf1.png",
+        "slug": "g3a4_foregrip_zf1",
+        "title": "G3a4 foregrip zf1.png"
+      },
+      {
+        "rel": "weapons/g3a4_foregrip.png",
+        "slug": "g3a4_foregrip",
+        "title": "G3a4 foregrip.png"
+      },
+      {
+        "rel": "weapons/g3a4_zf1.png",
+        "slug": "g3a4_zf1",
+        "title": "G3a4 zf1.png"
+      },
+      {
+        "rel": "weapons/g3a4_zpoint.png",
+        "slug": "g3a4_zpoint",
+        "title": "G3a4 zpoint.png"
+      },
+      {
+        "rel": "weapons/g3a4.png",
+        "slug": "g3a4",
+        "title": "G3a4.png"
+      },
+      {
+        "rel": "weapons/g3ka4_foregrip.png",
+        "slug": "g3ka4_foregrip",
+        "title": "G3ka4 foregrip.png"
+      },
+      {
+        "rel": "weapons/g3ka4_zf1.png",
+        "slug": "g3ka4_zf1",
+        "title": "G3ka4 zf1.png"
+      },
+      {
+        "rel": "weapons/g3ka4_zpoint.png",
+        "slug": "g3ka4_zpoint",
+        "title": "G3ka4 zpoint.png"
+      },
+      {
+        "rel": "weapons/g3ka4.png",
+        "slug": "g3ka4",
+        "title": "G3ka4.png"
+      },
+      {
+        "rel": "weapons/g3sg1.png",
+        "slug": "g3sg1",
+        "title": "G3sg1.png"
+      },
+      {
+        "rel": "weapons/gp25.png",
+        "slug": "gp25",
+        "title": "Gp25.png"
+      },
+      {
+        "rel": "weapons/har66.png",
+        "slug": "har66",
+        "title": "HAR66.png"
+      },
+      {
+        "rel": "weapons/hk417.png",
+        "slug": "hk417",
+        "title": "HK417.png"
+      },
+      {
+        "rel": "weapons/handhelddrone.png",
+        "slug": "handhelddrone",
+        "title": "Handhelddrone.png"
+      },
+      {
+        "rel": "weapons/hk79_gl.png",
+        "slug": "hk79_gl",
+        "title": "Hk79 gl.png"
+      },
+      {
+        "rel": "weapons/hydra70_dummy.png",
+        "slug": "hydra70_dummy",
+        "title": "Hydra70 Dummy.png"
+      },
+      {
+        "rel": "weapons/hydra70_he.png",
+        "slug": "hydra70_he",
+        "title": "Hydra70 HE.png"
+      },
+      {
+        "rel": "weapons/hydra70_heat.png",
+        "slug": "hydra70_heat",
+        "title": "Hydra70 HEAT.png"
+      },
+      {
+        "rel": "weapons/hydra70_smoke.png",
+        "slug": "hydra70_smoke",
+        "title": "Hydra70 Smoke.png"
+      },
+      {
+        "rel": "weapons/ied.png",
+        "slug": "ied",
+        "title": "IED.png"
+      },
+      {
+        "rel": "weapons/icon_ak12.png",
+        "slug": "icon_ak12",
+        "title": "Icon Ak12.png"
+      },
+      {
+        "rel": "weapons/incendiarygrenade.png",
+        "slug": "incendiarygrenade",
+        "title": "Incendiarygrenade.png"
+      },
+      {
+        "rel": "weapons/knt76_irons.png",
+        "slug": "knt76_irons",
+        "title": "Knt76 irons.PNG"
+      },
+      {
+        "rel": "weapons/knt76_keskin3.png",
+        "slug": "knt76_keskin3",
+        "title": "Knt76 keskin3.png"
+      },
+      {
+        "rel": "weapons/kornet_projectile.png",
+        "slug": "kornet_projectile",
+        "title": "Kornet projectile.png"
+      },
+      {
+        "rel": "weapons/ks23.png",
+        "slug": "ks23",
+        "title": "Ks23.png"
+      },
+      {
+        "rel": "weapons/l109a1.png",
+        "slug": "l109a1",
+        "title": "L109a1.png"
+      },
+      {
+        "rel": "weapons/l110a2_susat.png",
+        "slug": "l110a2_susat",
+        "title": "L110a2 susat.png"
+      },
+      {
+        "rel": "weapons/l110a2.png",
+        "slug": "l110a2",
+        "title": "L110a2.png"
+      },
+      {
+        "rel": "weapons/l129a1.png",
+        "slug": "l129a1",
+        "title": "L129a1.png"
+      },
+      {
+        "rel": "weapons/l132a1_smoke_blue.png",
+        "slug": "l132a1_smoke_blue",
+        "title": "L132a1 smoke blue.png"
+      },
+      {
+        "rel": "weapons/l132a1_smoke_green.png",
+        "slug": "l132a1_smoke_green",
+        "title": "L132a1 smoke green.png"
+      },
+      {
+        "rel": "weapons/l132a1_smoke_orange.png",
+        "slug": "l132a1_smoke_orange",
+        "title": "L132a1 smoke orange.png"
+      },
+      {
+        "rel": "weapons/l132a1_smoke_purple.png",
+        "slug": "l132a1_smoke_purple",
+        "title": "L132a1 smoke purple.png"
+      },
+      {
+        "rel": "weapons/l132a1_smoke_red.png",
+        "slug": "l132a1_smoke_red",
+        "title": "L132a1 smoke red.png"
+      },
+      {
+        "rel": "weapons/l132a1_smoke_yellow.png",
+        "slug": "l132a1_smoke_yellow",
+        "title": "L132a1 smoke yellow.png"
+      },
+      {
+        "rel": "weapons/l132a1_smoke.png",
+        "slug": "l132a1_smoke",
+        "title": "L132a1 smoke.png"
+      },
+      {
+        "rel": "weapons/l22a2_susat.png",
+        "slug": "l22a2_susat",
+        "title": "L22a2 susat.png"
+      },
+      {
+        "rel": "weapons/l22a2.png",
+        "slug": "l22a2",
+        "title": "L22a2.png"
+      },
+      {
+        "rel": "weapons/l85a2_acog_grip.png",
+        "slug": "l85a2_acog_grip",
+        "title": "L85a2 acog grip.png"
+      },
+      {
+        "rel": "weapons/l85a2_acog.png",
+        "slug": "l85a2_acog",
+        "title": "L85a2 acog.png"
+      },
+      {
+        "rel": "weapons/l85a2_classic.png",
+        "slug": "l85a2_classic",
+        "title": "L85a2 classic.png"
+      },
+      {
+        "rel": "weapons/l85a2_elcanlds_grippod.png",
+        "slug": "l85a2_elcanlds_grippod",
+        "title": "L85a2 elcanlds grippod.png"
+      },
+      {
+        "rel": "weapons/l85a2_elcanlds.png",
+        "slug": "l85a2_elcanlds",
+        "title": "L85a2 elcanlds.png"
+      },
+      {
+        "rel": "weapons/l85a2_grippod.png",
+        "slug": "l85a2_grippod",
+        "title": "L85a2 grippod.png"
+      },
+      {
+        "rel": "weapons/l85a2_susat_classic.png",
+        "slug": "l85a2_susat_classic",
+        "title": "L85a2 susat classic.png"
+      },
+      {
+        "rel": "weapons/l85a2_susat_grippod.png",
+        "slug": "l85a2_susat_grippod",
+        "title": "L85a2 susat grippod.png"
+      },
+      {
+        "rel": "weapons/l85a2_susat.png",
+        "slug": "l85a2_susat",
+        "title": "L85a2 susat.png"
+      },
+      {
+        "rel": "weapons/l85a2.png",
+        "slug": "l85a2",
+        "title": "L85a2.png"
+      },
+      {
+        "rel": "weapons/l85a2ag36_elcanlds.png",
+        "slug": "l85a2ag36_elcanlds",
+        "title": "L85a2ag36 elcanlds.png"
+      },
+      {
+        "rel": "weapons/l86a2_susat.png",
+        "slug": "l86a2_susat",
+        "title": "L86a2 susat.png"
+      },
+      {
+        "rel": "weapons/l86a2.png",
+        "slug": "l86a2",
+        "title": "L86a2.png"
+      },
+      {
+        "rel": "weapons/m1014.png",
+        "slug": "m1014",
+        "title": "M1014.png"
+      },
+      {
+        "rel": "weapons/m110_suppressor.png",
+        "slug": "m110_suppressor",
+        "title": "M110 suppressor.png"
+      },
+      {
+        "rel": "weapons/m110.png",
+        "slug": "m110",
+        "title": "M110.png"
+      },
+      {
+        "rel": "weapons/m112_c4explosive.png",
+        "slug": "m112_c4explosive",
+        "title": "M112 c4explosive.png"
+      },
+      {
+        "rel": "weapons/m134_dual.png",
+        "slug": "m134_dual",
+        "title": "M134 Dual.png"
+      },
+      {
+        "rel": "weapons/m134_mounted_dual.png",
+        "slug": "m134_mounted_dual",
+        "title": "M134 Mounted Dual.png"
+      },
+      {
+        "rel": "weapons/m134_mounted_heli_dual.png",
+        "slug": "m134_mounted_heli_dual",
+        "title": "M134 Mounted Heli Dual.png"
+      },
+      {
+        "rel": "weapons/m134_mounted_heli.png",
+        "slug": "m134_mounted_heli",
+        "title": "M134 Mounted Heli.png"
+      },
+      {
+        "rel": "weapons/m134_mounted.png",
+        "slug": "m134_mounted",
+        "title": "M134 Mounted.png"
+      },
+      {
+        "rel": "weapons/m134.png",
+        "slug": "m134",
+        "title": "M134.png"
+      },
+      {
+        "rel": "weapons/m14_m68.png",
+        "slug": "m14_m68",
+        "title": "M14 m68.png"
+      },
+      {
+        "rel": "weapons/m14.png",
+        "slug": "m14",
+        "title": "M14.png"
+      },
+      {
+        "rel": "weapons/m15_mine.png",
+        "slug": "m15_mine",
+        "title": "M15 mine.png"
+      },
+      {
+        "rel": "weapons/m16_wormpool_exps_foregrip.png",
+        "slug": "m16_wormpool_exps_foregrip",
+        "title": "M16 Wormpool EXPS Foregrip.png"
+      },
+      {
+        "rel": "weapons/m16_wormpool_ironsights_cmag_bipod.png",
+        "slug": "m16_wormpool_ironsights_cmag_bipod",
+        "title": "M16 Wormpool Ironsights CMag Bipod.png"
+      },
+      {
+        "rel": "weapons/m16_wormpool_ironsights_foregrip.png",
+        "slug": "m16_wormpool_ironsights_foregrip",
+        "title": "M16 Wormpool Ironsights Foregrip.png"
+      },
+      {
+        "rel": "weapons/m16_wormpool_m150_foregrip.png",
+        "slug": "m16_wormpool_m150_foregrip",
+        "title": "M16 Wormpool M150 Foregrip.png"
+      },
+      {
+        "rel": "weapons/m16_wormpool_meupold_bipod.png",
+        "slug": "m16_wormpool_meupold_bipod",
+        "title": "M16 Wormpool Meupold Bipod.png"
+      },
+      {
+        "rel": "weapons/m16_wormpool_t800_foregrip.png",
+        "slug": "m16_wormpool_t800_foregrip",
+        "title": "M16 Wormpool T800 Foregrip.png"
+      },
+      {
+        "rel": "weapons/m16a2_3x20.png",
+        "slug": "m16a2_3x20",
+        "title": "M16A2 3x20.png"
+      },
+      {
+        "rel": "weapons/m16a2_m203_3x20.png",
+        "slug": "m16a2_m203_3x20",
+        "title": "M16A2 M203 3x20.png"
+      },
+      {
+        "rel": "weapons/m16a2.png",
+        "slug": "m16a2",
+        "title": "M16A2.png"
+      },
+      {
+        "rel": "weapons/m16a4_acog_foregrip.png",
+        "slug": "m16a4_acog_foregrip",
+        "title": "M16A4 acog foregrip.png"
+      },
+      {
+        "rel": "weapons/m16a4_acog.png",
+        "slug": "m16a4_acog",
+        "title": "M16A4 acog.png"
+      },
+      {
+        "rel": "weapons/m16a4_foregrip.png",
+        "slug": "m16a4_foregrip",
+        "title": "M16A4 foregrip.png"
+      },
+      {
+        "rel": "weapons/m16a4.png",
+        "slug": "m16a4",
+        "title": "M16A4.png"
+      },
+      {
+        "rel": "weapons/m16a4_m203_acog.png",
+        "slug": "m16a4_m203_acog",
+        "title": "M16a4 m203 acog.png"
+      },
+      {
+        "rel": "weapons/m16a4_m203.png",
+        "slug": "m16a4_m203",
+        "title": "M16a4 m203.png"
+      },
+      {
+        "rel": "weapons/m17mhs.png",
+        "slug": "m17mhs",
+        "title": "M17mhs.png"
+      },
+      {
+        "rel": "weapons/m18_smoke_black.png",
+        "slug": "m18_smoke_black",
+        "title": "M18 smoke black.png"
+      },
+      {
+        "rel": "weapons/m18_smoke_blue.png",
+        "slug": "m18_smoke_blue",
+        "title": "M18 smoke blue.png"
+      },
+      {
+        "rel": "weapons/m18_smoke_green.png",
+        "slug": "m18_smoke_green",
+        "title": "M18 smoke green.png"
+      },
+      {
+        "rel": "weapons/m18_smoke_purple.png",
+        "slug": "m18_smoke_purple",
+        "title": "M18 smoke purple.png"
+      },
+      {
+        "rel": "weapons/m18_smoke_red.png",
+        "slug": "m18_smoke_red",
+        "title": "M18 smoke red.png"
+      },
+      {
+        "rel": "weapons/m18_smoke_yellow.png",
+        "slug": "m18_smoke_yellow",
+        "title": "M18 smoke yellow.png"
+      },
+      {
+        "rel": "weapons/m18_smoke.png",
+        "slug": "m18_smoke",
+        "title": "M18 smoke.png"
+      },
+      {
+        "rel": "weapons/m203_gl.png",
+        "slug": "m203_gl",
+        "title": "M203 gl.png"
+      },
+      {
+        "rel": "weapons/m21.png",
+        "slug": "m21",
+        "title": "M21.png"
+      },
+      {
+        "rel": "weapons/m240b_m145.png",
+        "slug": "m240b_m145",
+        "title": "M240b m145.png"
+      },
+      {
+        "rel": "weapons/m240b.png",
+        "slug": "m240b",
+        "title": "M240b.png"
+      },
+      {
+        "rel": "weapons/m240g_mgo.png",
+        "slug": "m240g_mgo",
+        "title": "M240g mgo.png"
+      },
+      {
+        "rel": "weapons/m249_sdo.png",
+        "slug": "m249_sdo",
+        "title": "M249 sdo.png"
+      },
+      {
+        "rel": "weapons/m249.png",
+        "slug": "m249",
+        "title": "M249.png"
+      },
+      {
+        "rel": "weapons/m249pip_aimpoint.png",
+        "slug": "m249pip_aimpoint",
+        "title": "M249pip aimpoint.png"
+      },
+      {
+        "rel": "weapons/m249pip_elcan.png",
+        "slug": "m249pip_elcan",
+        "title": "M249pip elcan.png"
+      },
+      {
+        "rel": "weapons/m249pip.png",
+        "slug": "m249pip",
+        "title": "M249pip.png"
+      },
+      {
+        "rel": "weapons/m27_iar_ironsight.png",
+        "slug": "m27_iar_ironsight",
+        "title": "M27 iar ironsight.png"
+      },
+      {
+        "rel": "weapons/m27_iar.png",
+        "slug": "m27_iar",
+        "title": "M27 iar.png"
+      },
+      {
+        "rel": "weapons/m2browning.png",
+        "slug": "m2browning",
+        "title": "M2browning.png"
+      },
+      {
+        "rel": "weapons/m38_dmr.png",
+        "slug": "m38_dmr",
+        "title": "M38 DMR.png"
+      },
+      {
+        "rel": "weapons/m39_irons.png",
+        "slug": "m39_irons",
+        "title": "M39 Irons.png"
+      },
+      {
+        "rel": "weapons/m39.png",
+        "slug": "m39",
+        "title": "M39.png"
+      },
+      {
+        "rel": "weapons/m3maaws_heat.png",
+        "slug": "m3maaws_heat",
+        "title": "M3maaws heat.png"
+      },
+      {
+        "rel": "weapons/m3maaws_tandem.png",
+        "slug": "m3maaws_tandem",
+        "title": "M3maaws tandem.png"
+      },
+      {
+        "rel": "weapons/m4_carryhandle_foregrip.png",
+        "slug": "m4_carryhandle_foregrip",
+        "title": "M4 Carryhandle foregrip.png"
+      },
+      {
+        "rel": "weapons/m4_carryhandle.png",
+        "slug": "m4_carryhandle",
+        "title": "M4 Carryhandle.png"
+      },
+      {
+        "rel": "weapons/m4_classic_m68.png",
+        "slug": "m4_classic_m68",
+        "title": "M4 Classic M68.png"
+      },
+      {
+        "rel": "weapons/m4_classic.png",
+        "slug": "m4_classic",
+        "title": "M4 Classic.png"
+      },
+      {
+        "rel": "weapons/m4_simonoffense_exps_foregrip.png",
+        "slug": "m4_simonoffense_exps_foregrip",
+        "title": "M4 SimonOffense EXPS Foregrip.png"
+      },
+      {
+        "rel": "weapons/m4_simonoffense_ironsights_foregrip.png",
+        "slug": "m4_simonoffense_ironsights_foregrip",
+        "title": "M4 SimonOffense Ironsights Foregrip.png"
+      },
+      {
+        "rel": "weapons/m4_simonoffense_m150_foregrip.png",
+        "slug": "m4_simonoffense_m150_foregrip",
+        "title": "M4 SimonOffense M150 Foregrip.png"
+      },
+      {
+        "rel": "weapons/m4_simonoffense_t800_foregrip.png",
+        "slug": "m4_simonoffense_t800_foregrip",
+        "title": "M4 SimonOffense T800 Foregrip.png"
+      },
+      {
+        "rel": "weapons/m4_wormpool_exps_foregrip.png",
+        "slug": "m4_wormpool_exps_foregrip",
+        "title": "M4 Wormpool EXPS Foregrip.png"
+      },
+      {
+        "rel": "weapons/m4_wormpool_ironsights_foregrip.png",
+        "slug": "m4_wormpool_ironsights_foregrip",
+        "title": "M4 Wormpool Ironsights Foregrip.png"
+      },
+      {
+        "rel": "weapons/m4_wormpool_m150_foregrip.png",
+        "slug": "m4_wormpool_m150_foregrip",
+        "title": "M4 Wormpool M150 Foregrip.png"
+      },
+      {
+        "rel": "weapons/m4_wormpool_t800.png",
+        "slug": "m4_wormpool_t800",
+        "title": "M4 Wormpool T800.png"
+      },
+      {
+        "rel": "weapons/m4_acog_foregrip.png",
+        "slug": "m4_acog_foregrip",
+        "title": "M4 acog foregrip.png"
+      },
+      {
+        "rel": "weapons/m4_acog_killflash.png",
+        "slug": "m4_acog_killflash",
+        "title": "M4 acog killflash.png"
+      },
+      {
+        "rel": "weapons/m4_acog.png",
+        "slug": "m4_acog",
+        "title": "M4 acog.png"
+      },
+      {
+        "rel": "weapons/m4_aimpoint_foregrip.png",
+        "slug": "m4_aimpoint_foregrip",
+        "title": "M4 aimpoint foregrip.png"
+      },
+      {
+        "rel": "weapons/m4_aimpoint.png",
+        "slug": "m4_aimpoint",
+        "title": "M4 aimpoint.png"
+      },
+      {
+        "rel": "weapons/m4_ironsights_foregrip.png",
+        "slug": "m4_ironsights_foregrip",
+        "title": "M4 ironsights foregrip.png"
+      },
+      {
+        "rel": "weapons/m4_ironsights.png",
+        "slug": "m4_ironsights",
+        "title": "M4 ironsights.png"
+      },
+      {
+        "rel": "weapons/m4_m203_acog.png",
+        "slug": "m4_m203_acog",
+        "title": "M4 m203 acog.png"
+      },
+      {
+        "rel": "weapons/m67.png",
+        "slug": "m67",
+        "title": "M67.png"
+      },
+      {
+        "rel": "weapons/m72a7law.png",
+        "slug": "m72a7law",
+        "title": "M72A7LAW.png"
+      },
+      {
+        "rel": "weapons/m9_bayonet.png",
+        "slug": "m9_bayonet",
+        "title": "M9 bayonet.png"
+      },
+      {
+        "rel": "weapons/m9a1beretta.png",
+        "slug": "m9a1beretta",
+        "title": "M9a1beretta.png"
+      },
+      {
+        "rel": "weapons/mp5a3_t800.png",
+        "slug": "mp5a3_t800",
+        "title": "MP5A3 T800.png"
+      },
+      {
+        "rel": "weapons/mp5a3_zpoint.png",
+        "slug": "mp5a3_zpoint",
+        "title": "MP5A3 Zpoint.PNG"
+      },
+      {
+        "rel": "weapons/makarov.png",
+        "slug": "makarov",
+        "title": "Makarov.png"
+      },
+      {
+        "rel": "weapons/maximi.png",
+        "slug": "maximi",
+        "title": "Maximi.png"
+      },
+      {
+        "rel": "weapons/maximieotech.png",
+        "slug": "maximieotech",
+        "title": "MaximiEotech.png"
+      },
+      {
+        "rel": "weapons/maximispecter.png",
+        "slug": "maximispecter",
+        "title": "MaximiSpecter.png"
+      },
+      {
+        "rel": "weapons/medibag.png",
+        "slug": "medibag",
+        "title": "Medibag.png"
+      },
+      {
+        "rel": "weapons/mg3_elcan.png",
+        "slug": "mg3_elcan",
+        "title": "Mg3 elcan.png"
+      },
+      {
+        "rel": "weapons/mg3.png",
+        "slug": "mg3",
+        "title": "Mg3.png"
+      },
+      {
+        "rel": "weapons/mgl_he.png",
+        "slug": "mgl_he",
+        "title": "Mgl he.png"
+      },
+      {
+        "rel": "weapons/minimi.png",
+        "slug": "minimi",
+        "title": "Minimi.png"
+      },
+      {
+        "rel": "weapons/mosin_carbine.png",
+        "slug": "mosin_carbine",
+        "title": "Mosin carbine.png"
+      },
+      {
+        "rel": "weapons/mosin_sniper.png",
+        "slug": "mosin_sniper",
+        "title": "Mosin sniper.png"
+      },
+      {
+        "rel": "weapons/mosinm1891.png",
+        "slug": "mosinm1891",
+        "title": "Mosinm1891.png"
+      },
+      {
+        "rel": "weapons/mp443.png",
+        "slug": "mp443",
+        "title": "Mp443.png"
+      },
+      {
+        "rel": "weapons/mp5a3.png",
+        "slug": "mp5a3",
+        "title": "Mp5a3.png"
+      },
+      {
+        "rel": "weapons/mpt76_a940.png",
+        "slug": "mpt76_a940",
+        "title": "Mpt76 a940.png"
+      },
+      {
+        "rel": "weapons/mpt76_ak40gl_a940.png",
+        "slug": "mpt76_ak40gl_a940",
+        "title": "Mpt76 ak40gl a940.png"
+      },
+      {
+        "rel": "weapons/mpt76_foregrip_a940.png",
+        "slug": "mpt76_foregrip_a940",
+        "title": "Mpt76 foregrip a940.png"
+      },
+      {
+        "rel": "weapons/mpt76_foregrip_hna.png",
+        "slug": "mpt76_foregrip_hna",
+        "title": "Mpt76 foregrip hna.png"
+      },
+      {
+        "rel": "weapons/mpt76_foregrip.png",
+        "slug": "mpt76_foregrip",
+        "title": "Mpt76 foregrip.png"
+      },
+      {
+        "rel": "weapons/mpt76_hna.png",
+        "slug": "mpt76_hna",
+        "title": "Mpt76 hna.png"
+      },
+      {
+        "rel": "weapons/mpt76.png",
+        "slug": "mpt76",
+        "title": "Mpt76.png"
+      },
+      {
+        "rel": "weapons/nlaw.webp",
+        "slug": "nlaw",
+        "title": "Nlaw.webp"
+      },
+      {
+        "rel": "weapons/nsv_icon.png",
+        "slug": "nsv_icon",
+        "title": "Nsv icon.png"
+      },
+      {
+        "rel": "weapons/okc_3s.png",
+        "slug": "okc_3s",
+        "title": "Okc-3s.png"
+      },
+      {
+        "rel": "weapons/pf98_heat.png",
+        "slug": "pf98_heat",
+        "title": "Pf98 heat.png"
+      },
+      {
+        "rel": "weapons/pkm_1p29.png",
+        "slug": "pkm_1p29",
+        "title": "Pkm 1p29.png"
+      },
+      {
+        "rel": "weapons/pkm.png",
+        "slug": "pkm",
+        "title": "Pkm.png"
+      },
+      {
+        "rel": "weapons/pkp_1p78.png",
+        "slug": "pkp_1p78",
+        "title": "Pkp 1p78.png"
+      },
+      {
+        "rel": "weapons/pkp.png",
+        "slug": "pkp",
+        "title": "Pkp.png"
+      },
+      {
+        "rel": "weapons/pmd63.png",
+        "slug": "pmd63",
+        "title": "Pmd63.png"
+      },
+      {
+        "rel": "weapons/pmmd63.png",
+        "slug": "pmmd63",
+        "title": "Pmmd63.png"
+      },
+      {
+        "rel": "weapons/pmt76_a940.png",
+        "slug": "pmt76_a940",
+        "title": "Pmt76 a940.png"
+      },
+      {
+        "rel": "weapons/ppsh_41_drum.png",
+        "slug": "ppsh_41_drum",
+        "title": "Ppsh-41 drum.png"
+      },
+      {
+        "rel": "weapons/ppsh_41_stick.png",
+        "slug": "ppsh_41_stick",
+        "title": "Ppsh-41 stick.png"
+      },
+      {
+        "rel": "weapons/ppsh_41.png",
+        "slug": "ppsh_41",
+        "title": "Ppsh-41.png"
+      },
+      {
+        "rel": "weapons/qbu88_irons.png",
+        "slug": "qbu88_irons",
+        "title": "Qbu88 irons.png"
+      },
+      {
+        "rel": "weapons/qbu88.png",
+        "slug": "qbu88",
+        "title": "Qbu88.png"
+      },
+      {
+        "rel": "weapons/qbz95_1_holo.png",
+        "slug": "qbz95_1_holo",
+        "title": "Qbz95-1 holo.png"
+      },
+      {
+        "rel": "weapons/qbz95_1_qlg10_yma600.png",
+        "slug": "qbz95_1_qlg10_yma600",
+        "title": "Qbz95-1 qlg10 yma600.png"
+      },
+      {
+        "rel": "weapons/qbz95_1_qlg10.png",
+        "slug": "qbz95_1_qlg10",
+        "title": "Qbz95-1 qlg10.png"
+      },
+      {
+        "rel": "weapons/qbz95_1_yma600.png",
+        "slug": "qbz95_1_yma600",
+        "title": "Qbz95-1 yma600.png"
+      },
+      {
+        "rel": "weapons/qbz95_1.png",
+        "slug": "qbz95_1",
+        "title": "Qbz95-1.png"
+      },
+      {
+        "rel": "weapons/qbz95b_1.png",
+        "slug": "qbz95b_1",
+        "title": "Qbz95b-1.png"
+      },
+      {
+        "rel": "weapons/qjb95_1_yma600.png",
+        "slug": "qjb95_1_yma600",
+        "title": "Qjb95-1 yma600.png"
+      },
+      {
+        "rel": "weapons/qjb95_1.png",
+        "slug": "qjb95_1",
+        "title": "Qjb95-1.png"
+      },
+      {
+        "rel": "weapons/qjy88_scope.png",
+        "slug": "qjy88_scope",
+        "title": "Qjy88 scope.png"
+      },
+      {
+        "rel": "weapons/qjy88.png",
+        "slug": "qjy88",
+        "title": "Qjy88.png"
+      },
+      {
+        "rel": "weapons/qjz89.png",
+        "slug": "qjz89",
+        "title": "Qjz89.png"
+      },
+      {
+        "rel": "weapons/qlg10_bluesmoke.png",
+        "slug": "qlg10_bluesmoke",
+        "title": "Qlg10 bluesmoke.png"
+      },
+      {
+        "rel": "weapons/qlg10_gl.png",
+        "slug": "qlg10_gl",
+        "title": "Qlg10 gl.png"
+      },
+      {
+        "rel": "weapons/qlg10_whitesmoke.png",
+        "slug": "qlg10_whitesmoke",
+        "title": "Qlg10 whitesmoke.png"
+      },
+      {
+        "rel": "weapons/qsz92.png",
+        "slug": "qsz92",
+        "title": "Qsz92.png"
+      },
+      {
+        "rel": "weapons/rgo.png",
+        "slug": "rgo",
+        "title": "RGO.PNG"
+      },
+      {
+        "rel": "weapons/rallypoint.png",
+        "slug": "rallypoint",
+        "title": "Rallypoint.png"
+      },
+      {
+        "rel": "weapons/razorwire.png",
+        "slug": "razorwire",
+        "title": "Razorwire.png"
+      },
+      {
+        "rel": "weapons/rdg2_smoke_black.png",
+        "slug": "rdg2_smoke_black",
+        "title": "Rdg2 smoke black.png"
+      },
+      {
+        "rel": "weapons/rdg2_smoke_blue.png",
+        "slug": "rdg2_smoke_blue",
+        "title": "Rdg2 smoke blue.png"
+      },
+      {
+        "rel": "weapons/rdg2_smoke_green.png",
+        "slug": "rdg2_smoke_green",
+        "title": "Rdg2 smoke green.png"
+      },
+      {
+        "rel": "weapons/rdg2_smoke_orange.png",
+        "slug": "rdg2_smoke_orange",
+        "title": "Rdg2 smoke orange.png"
+      },
+      {
+        "rel": "weapons/rdg2_smoke_purple.png",
+        "slug": "rdg2_smoke_purple",
+        "title": "Rdg2 smoke purple.png"
+      },
+      {
+        "rel": "weapons/rdg2_smoke_red.png",
+        "slug": "rdg2_smoke_red",
+        "title": "Rdg2 smoke red.png"
+      },
+      {
+        "rel": "weapons/rdg2_smoke_yellow.png",
+        "slug": "rdg2_smoke_yellow",
+        "title": "Rdg2 smoke yellow.png"
+      },
+      {
+        "rel": "weapons/rdg2_smoke.png",
+        "slug": "rdg2_smoke",
+        "title": "Rdg2 smoke.png"
+      },
+      {
+        "rel": "weapons/rgd5.png",
+        "slug": "rgd5",
+        "title": "Rgd5.png"
+      },
+      {
+        "rel": "weapons/rkg3.png",
+        "slug": "rkg3",
+        "title": "Rkg3.png"
+      },
+      {
+        "rel": "weapons/rockdecoy.png",
+        "slug": "rockdecoy",
+        "title": "Rockdecoy.png"
+      },
+      {
+        "rel": "weapons/rpd.png",
+        "slug": "rpd",
+        "title": "Rpd.png"
+      },
+      {
+        "rel": "weapons/rpg26.png",
+        "slug": "rpg26",
+        "title": "Rpg26.png"
+      },
+      {
+        "rel": "weapons/rpg28.png",
+        "slug": "rpg28",
+        "title": "Rpg28.png"
+      },
+      {
+        "rel": "weapons/rpg29.png",
+        "slug": "rpg29",
+        "title": "Rpg29.png"
+      },
+      {
+        "rel": "weapons/rpg7_icon.png",
+        "slug": "rpg7_icon",
+        "title": "Rpg7 icon.png"
+      },
+      {
+        "rel": "weapons/rpg7v2heat.png",
+        "slug": "rpg7v2heat",
+        "title": "Rpg7v2heat.png"
+      },
+      {
+        "rel": "weapons/rpk_bananamag.png",
+        "slug": "rpk_bananamag",
+        "title": "Rpk bananamag.png"
+      },
+      {
+        "rel": "weapons/rpk.png",
+        "slug": "rpk",
+        "title": "Rpk.png"
+      },
+      {
+        "rel": "weapons/rpk74_1p78.png",
+        "slug": "rpk74_1p78",
+        "title": "Rpk74 1p78.png"
+      },
+      {
+        "rel": "weapons/rpk74.png",
+        "slug": "rpk74",
+        "title": "Rpk74.png"
+      },
+      {
+        "rel": "weapons/rpk74m_1p78.png",
+        "slug": "rpk74m_1p78",
+        "title": "Rpk74m 1p78.png"
+      },
+      {
+        "rel": "weapons/rpk74m.png",
+        "slug": "rpk74m",
+        "title": "Rpk74m.png"
+      },
+      {
+        "rel": "weapons/russianbinoculars.png",
+        "slug": "russianbinoculars",
+        "title": "Russianbinoculars.png"
+      },
+      {
+        "rel": "weapons/s5rocket.png",
+        "slug": "s5rocket",
+        "title": "S5rocket.png"
+      },
+      {
+        "rel": "weapons/socp_knife.png",
+        "slug": "socp_knife",
+        "title": "SOCP Knife.png"
+      },
+      {
+        "rel": "weapons/sa80_bayonet.png",
+        "slug": "sa80_bayonet",
+        "title": "Sa80 bayonet.png"
+      },
+      {
+        "rel": "weapons/sar109t_hna.png",
+        "slug": "sar109t_hna",
+        "title": "Sar109t hna.png"
+      },
+      {
+        "rel": "weapons/sks_bayonet.png",
+        "slug": "sks_bayonet",
+        "title": "Sks bayonet.png"
+      },
+      {
+        "rel": "weapons/sks_pu.png",
+        "slug": "sks_pu",
+        "title": "Sks pu.png"
+      },
+      {
+        "rel": "weapons/sks.png",
+        "slug": "sks",
+        "title": "Sks.png"
+      },
+      {
+        "rel": "weapons/sl40_gl.png",
+        "slug": "sl40_gl",
+        "title": "Sl40 gl.png"
+      },
+      {
+        "rel": "weapons/smaw_heat.png",
+        "slug": "smaw_heat",
+        "title": "Smaw heat.png"
+      },
+      {
+        "rel": "weapons/smaw_spottingrifle.png",
+        "slug": "smaw_spottingrifle",
+        "title": "Smaw spottingrifle.png"
+      },
+      {
+        "rel": "weapons/smaw_tandem.png",
+        "slug": "smaw_tandem",
+        "title": "Smaw tandem.png"
+      },
+      {
+        "rel": "weapons/sor109t.png",
+        "slug": "sor109t",
+        "title": "Sor109t.png"
+      },
+      {
+        "rel": "weapons/sor9.png",
+        "slug": "sor9",
+        "title": "Sor9.png"
+      },
+      {
+        "rel": "weapons/sovietbinocs.png",
+        "slug": "sovietbinocs",
+        "title": "Sovietbinocs.png"
+      },
+      {
+        "rel": "weapons/sv98m.png",
+        "slug": "sv98m",
+        "title": "Sv98m.png"
+      },
+      {
+        "rel": "weapons/svd.png",
+        "slug": "svd",
+        "title": "Svd.png"
+      },
+      {
+        "rel": "weapons/svdm.png",
+        "slug": "svdm",
+        "title": "Svdm.png"
+      },
+      {
+        "rel": "weapons/sz1_explosive.png",
+        "slug": "sz1_explosive",
+        "title": "Sz1 explosive.png"
+      },
+      {
+        "rel": "weapons/t_tw_338_sws.png",
+        "slug": "t_tw_338_sws",
+        "title": "T TW 338 SWS.PNG"
+      },
+      {
+        "rel": "weapons/tm62_mine.png",
+        "slug": "tm62_mine",
+        "title": "Tm62 mine.png"
+      },
+      {
+        "rel": "weapons/tnt_1lb_explosive.png",
+        "slug": "tnt_1lb_explosive",
+        "title": "Tnt 1lb explosive.png"
+      },
+      {
+        "rel": "weapons/tnt_600g_explosive.png",
+        "slug": "tnt_600g_explosive",
+        "title": "Tnt 600g explosive.png"
+      },
+      {
+        "rel": "weapons/tt33.png",
+        "slug": "tt33",
+        "title": "Tt33.png"
+      },
+      {
+        "rel": "weapons/type72_mine.png",
+        "slug": "type72_mine",
+        "title": "Type72 mine.png"
+      },
+      {
+        "rel": "weapons/type86p_1.png",
+        "slug": "type86p_1",
+        "title": "Type86p-1.png"
+      },
+      {
+        "rel": "weapons/usbinocs.png",
+        "slug": "usbinocs",
+        "title": "Usbinocs.png"
+      },
+      {
+        "rel": "weapons/vss_pso_1.png",
+        "slug": "vss_pso_1",
+        "title": "VSS PSO-1.PNG"
+      },
+      {
+        "rel": "weapons/vss.png",
+        "slug": "vss",
+        "title": "VSS.PNG"
+      },
+      {
+        "rel": "weapons/vz61.png",
+        "slug": "vz61",
+        "title": "Vz61.png"
+      }
+    ]
+  },
+  "generated_at": "2026-05-27T05:18:30.325959+00:00",
+  "license": "CC-BY-SA 3.0",
+  "schema": 1,
+  "source": "squad-fandom-wiki",
+  "source_url": "https://squad.fandom.com"
+}
